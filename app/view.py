@@ -2,7 +2,7 @@ import sys
 sys.path.insert(2, '/usr/local/lib/python2.7/site-packages')
 from flask import Flask, render_template, request, json
 from flask import render_template
-from app import parser
+import parser
 
 import json
 import pprint

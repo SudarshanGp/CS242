@@ -2,12 +2,12 @@ import pprint
 import sys
 from pandas import json
 
-from app.svn.log.log import Log
+from svn.log.log import Log
 
 sys.path.insert(2, '/usr/local/lib/python2.7/site-packages')
 from bs4 import BeautifulSoup
 import subprocess
-from app.svn.list import List
+from svn.list import List
 from dateutil import parser
 
 
