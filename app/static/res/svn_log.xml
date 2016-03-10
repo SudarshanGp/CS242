@@ -1,13 +1,980 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <log>
 <logentry
+   revision="8636">
+<author>gvndprs2</author>
+<date>2016-03-10T02:07:11.845131Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/normalize.css/README.md</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/css/support.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/event/ajax.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/less/mixins.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/normalize.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/dimensions.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/js/.jshintrc</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/js/transition.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/css/addGetHookIf.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/event.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/var/indexOf.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/modals.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/core/access.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/css/bootstrap.css</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/forms.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/ajax/var/rquery.js</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/normalize.css</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/css</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/res</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/data/var/data_user.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/manipulation/_evalUrl.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/traversing/findFilter.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/js/popover.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/scss/_mixins.scss</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment3.0/svn_log.xml</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/scss/_bordered-pulled.scss</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/bower.json</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/scss/_stacked.scss</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/serialize.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/js/alert.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/js/main.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/fonts/glyphicons-halflings-regular.woff</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/data/accepts.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/fonts/fontawesome-webfont.ttf</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/package.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/fonts/fontawesome-webfont.svg</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/normalize.css/package.json</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/var/rnotwhite.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/LICENSE</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/core/var/rsingleTag.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/selector.js</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/dropdowns.less</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/templates</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/glyphicons.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/js/prefixfree.min.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/css/font-awesome.min.css</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/js/tab.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/dist/jquery.js</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/core/ready.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/event/support.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/.bower.json</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/fonts/glyphicons-halflings-regular.eot</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/traversing/var/rneedsContext.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/ajax/load.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/fonts/glyphicons-halflings-regular.ttf</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/fonts/fontawesome-webfont.woff</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/fonts/glyphicons-halflings-regular.svg</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/css/bootstrap-theme.css.map</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/css/var/cssExpand.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/hide-text.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/table-row.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/responsive-embed.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/effects.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/jquery.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/border-radius.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/less/rotated-flipped.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/scss/_icons.scss</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/css/var/rnumnonpx.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/grunt/bs-raw-files-generator.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/ajax/script.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/README.md</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/badges.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/grunt/.jshintrc</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/jquery/src/data</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/grunt/bs-lessdoc-parser.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/js/button.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/attributes/attr.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/js/carousel.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/image.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/text-overflow.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/js/bootstrap.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/var/support.js</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/labels.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/less/larger.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/less/fixed-width.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/ajax/jsonp.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/css/var/rmargin.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/variables.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/js/myscript.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/list-group.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/size.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/grid.less</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/scss</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/selector-native.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/buttons.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/css/bootstrap.css.map</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/theme.less</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/jquery/src/attributes</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/__init__.py</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment3.0/app.py</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/labels.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/attributes/classes.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/scss/_larger.scss</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/css.js</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/gvndprs2/Assignment3.0/app.py"
+   copyfrom-rev="8482">/gvndprs2/Assignment3.0/app/view.py</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/core/init.js</path>
+<path
+   action="D"
+   kind="file">/gvndprs2/Assignment3.0/parser.py</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/normalize.css/CHANGELOG.md</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/css/style.css</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/breadcrumbs.less</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment3.0/app/svn/list.py</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/responsive-visibility.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/deprecated.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/effects/Tween.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/sizzle/dist/sizzle.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/templates/base.html</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/jquery/src/event</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/Gruntfile.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/var/push.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/fonts/glyphicons-halflings-regular.svg</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/data.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/less/icons.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/close.less</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/jquery/src/css</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/gvndprs2/Assignment3.0/svn_log.xml"
+   copyfrom-rev="8482">/gvndprs2/Assignment3.0/app/static/res/svn_log.xml</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/js/modal.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/code.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/queue/delay.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/scss/_list.scss</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/ajax/xhr.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/sizzle/dist/sizzle.min.map</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/offset.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/selector-sizzle.js</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/bootstrap/dist</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/var/concat.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/scss/_core.scss</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/var/toString.js</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/bootstrap/less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/css/var/getStyles.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/exports/global.js</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/fonts/glyphicons-halflings-regular.woff</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/list-group.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/css/bootstrap-theme.min.css</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/js/scrollspy.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/scss/_variables.scss</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/fonts/glyphicons-halflings-regular.eot</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/reset-filter.less</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/jquery/src/manipulation</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/fonts</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/jumbotron.less</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/fonts</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/css/curCSS.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/package.json</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/progress-bars.less</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/jquery/src/ajax/var</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/tooltip.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/scss/_path.scss</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/grid.less</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/css/var</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/exports/amd.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/pager.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/css/var/isHidden.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/pagination.less</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/font-awesome/css</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/gvndprs2/Assignment3.0/parser.py"
+   copyfrom-rev="8482">/gvndprs2/Assignment3.0/app/parser.py</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/clearfix.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/scss/font-awesome.scss</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/resize.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/data/Data.js</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/js/collapse.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/grunt/configBridge.json</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/fonts/FontAwesome.otf</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/scss/_rotated-flipped.scss</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/intro.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/scss/_spinning.scss</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/bootstrap</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/normalize.css/normalize.css</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/vendor-prefixes.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/css/defaultDisplay.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/attributes/support.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/manipulation/support.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/css/bootstrap.min.css</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/manipulation/var/rcheckableType.js</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/manipulation/var</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/dist/jquery.min.js</path>
+<path
+   action="D"
+   kind="dir">/gvndprs2/Assignment3.0/svn</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/deferred.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/.csscomb.json</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/grunt/bs-commonjs-generator.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/scss/_fixed-width.scss</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/popovers.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/nav-divider.less</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/jquery/src/data/var</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/wells.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/grid-framework.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/.bower.json</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/less/variables.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/attributes/prop.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/var/pnum.js</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/jquery/src/sizzle/dist</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/jquery/src/ajax</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/jquery/src/queue</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/component-animations.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/data/var/data_priv.js</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/var</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/js/.jscsrc</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/js/dropdown.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/js/affix.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/grunt/sauce_browsers.yml</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/utilities.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/ajax.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/progress-bar.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/js/bootstrap.min.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/scaffolding.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/media.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/fonts/glyphicons-halflings-regular.ttf</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/var/slice.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/core.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/fonts/glyphicons-halflings-regular.svg</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/background-variant.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/pagination.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/nav-vertical-align.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/effects/animatedSelector.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/forms.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/event/alias.js</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/fonts</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/ajax/var/nonce.js</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/core</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/dist/jquery.min.map</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/ajax/parseXML.js</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/tables.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/input-groups.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/bootstrap.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/css/hiddenVisibleSelectors.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/center-block.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/core/parseHTML.js</path>
+<path
+   kind="dir"
+   copyfrom-path="/gvndprs2/Assignment3.0/svn"
+   copyfrom-rev="8482"
+   action="A">/gvndprs2/Assignment3.0/app/svn</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/button-groups.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/less/font-awesome.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/less/bordered-pulled.less</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/fonts</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/traversing</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/less/stacked.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/fonts/glyphicons-halflings-regular.woff2</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/js/tooltip.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/navbar.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/bower.json</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/sizzle/dist/sizzle.min.js</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/css</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/var/hasOwn.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/panels.less</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/grunt</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/tab-focus.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/alerts.less</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/jquery/src/core/var</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/outro.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/text-emphasis.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/less/list.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/fonts/glyphicons-halflings-regular.woff</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/buttons.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/queue.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/less/core.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/normalize.css/LICENSE.md</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/type.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/templates/index.html</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/panels.less</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/jquery/src/traversing/var</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/css/swap.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/css/font-awesome.css</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/attributes/val.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/alerts.less</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/var/arr.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/thumbnails.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/responsive-utilities.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/js/npm.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/var/class2type.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/var/strundefined.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/templates/frame.html</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/MIT-LICENSE.txt</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/opacity.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/attributes.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/ajax/parseJSON.js</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/exports</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/fonts/glyphicons-halflings-regular.woff2</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/font-awesome/less/path.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/dist/css/bootstrap-theme.css</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/fonts/fontawesome-webfont.eot</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins/gradients.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/jquery/src/manipulation.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/less/print.less</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/jquery/src/effects</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/jquery/src/sizzle</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/res/svn_list.xml</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/wrap.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/js/menu.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/navs.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/mixins.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/callbacks.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/grunt/bs-glyphicons-data-generator.js</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/font-awesome/less/spinning.less</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/.csslintrc</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/jquery/src/traversing.js</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/app/static/bootstrap/less/carousel.less</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/app/static/bootstrap/fonts/glyphicons-halflings-regular.eot</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/app/static/jquery/dist</path>
+</paths>
+<msg>update with first working copy</msg>
+</logentry>
+<logentry
    revision="8577">
 <author>gvndprs2</author>
 <date>2016-03-09T20:02:57.197221Z</date>
 <paths>
 <path
-   kind="dir"
-   action="D">/gvndprs2/Assignment1.2/out</path>
+   action="D"
+   kind="dir">/gvndprs2/Assignment1.2/out</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment1.2/ChessGame.jar</path>
@@ -20,45 +987,45 @@
 <date>2016-03-08T22:23:41.898581Z</date>
 <paths>
 <path
-   kind="dir"
-   action="A">/gvndprs2/Assignment3.0/svn</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/svn/log/path.py</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment3.0/main.py</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/svn/__init__.py</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/svn/log/__init__.py</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment3.0/svn/log/log.py</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment3.0/list.py</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment3.0/parser.py</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/svn</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment3.0/svn_log.xml</path>
 <path
+   action="A"
    kind="file"
    copyfrom-path="/gvndprs2/Assignment3.0/main.py"
-   copyfrom-rev="8339"
-   action="A">/gvndprs2/Assignment3.0/app.py</path>
+   copyfrom-rev="8339">/gvndprs2/Assignment3.0/app.py</path>
 <path
-   kind="dir"
-   action="A">/gvndprs2/Assignment3.0/svn/log</path>
+   action="A"
+   kind="dir">/gvndprs2/Assignment3.0/svn/log</path>
 <path
    kind="file"
    copyfrom-path="/gvndprs2/Assignment3.0/list.py"
    copyfrom-rev="8339"
    action="A">/gvndprs2/Assignment3.0/svn/list.py</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment3.0/svn/log/path.py</path>
-<path
-   action="D"
-   kind="file">/gvndprs2/Assignment3.0/main.py</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment3.0/svn/__init__.py</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment3.0/svn/log/__init__.py</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment3.0/svn/log/log.py</path>
-<path
-   action="D"
-   kind="file">/gvndprs2/Assignment3.0/list.py</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment3.0/parser.py</path>
 </paths>
 <msg>version 0.1</msg>
 </logentry>
@@ -69,10 +1036,10 @@
 <paths>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment3.0/main.py</path>
+   action="A">/gvndprs2/Assignment3.0/list.py</path>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment3.0/list.py</path>
+   action="A">/gvndprs2/Assignment3.0/main.py</path>
 </paths>
 <msg>adding files</msg>
 </logentry>
@@ -100,24 +1067,24 @@
 <paths>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment2.1/src/code/graph/graph.py</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.1/src/tests/testQueryClass.py</path>
-<path
-   kind="file"
    action="M">/gvndprs2/Assignment2.1/src/code/query.py</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment2.1/src/tests/testGraphPackage.py</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.1/src/code/command.py</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment2.1/src/code/command.py</path>
 <path
-   action="R"
    kind="file"
    copyfrom-path="/gvndprs2/Assignment2.1/src/code/graph/__init__.py"
-   copyfrom-rev="7679">/gvndprs2/Assignment2.1/src/code/__init__.py</path>
+   copyfrom-rev="7679"
+   action="R">/gvndprs2/Assignment2.1/src/code/__init__.py</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment2.1/src/code/graph/graph.py</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment2.1/src/tests/testQueryClass.py</path>
 </paths>
 <msg>moved code around</msg>
 </logentry>
@@ -127,8 +1094,8 @@
 <date>2016-03-01T21:53:19.122577Z</date>
 <paths>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment2.1/src/code/query.py</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment2.1/src/code/query.py</path>
 </paths>
 <msg>update code</msg>
 </logentry>
@@ -138,14 +1105,14 @@
 <date>2016-03-01T21:15:25.805738Z</date>
 <paths>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.1/src/code/command.py</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment2.1/src/code/graph/graph.py</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.1/src/code/graph/graph.py</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment2.1/src/code/query.py</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.1/src/code/query.py</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment2.1/src/code/command.py</path>
 </paths>
 <msg>update files with comments</msg>
 </logentry>
@@ -155,14 +1122,14 @@
 <date>2016-03-01T21:09:13.182654Z</date>
 <paths>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.1/src/code/command.py</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment2.1/src/code/command.py</path>
 <path
    kind="file"
    action="D">/gvndprs2/Assignment2.1/src/res/temp.json</path>
 <path
-   kind="file"
-   action="D">/gvndprs2/Assignment2.1/src/res/data.json</path>
+   action="D"
+   kind="file">/gvndprs2/Assignment2.1/src/res/data.json</path>
 </paths>
 <msg>update files</msg>
 </logentry>
@@ -173,22 +1140,22 @@
 <paths>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment2.1/src/res/testMap.json</path>
+   kind="file">/gvndprs2/Assignment2.1/src/code/graph/graph.py</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment2.1/src/tests/testQueryClass.py</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment2.1/src/code/query.py</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment2.1/src/tests/testGraphPackage.py</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment2.1/src/res/testMap.json</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment2.1/src/res/test_invalid_add.json</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment2.1/src/code/graph/graph.py</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.1/src/tests/testQueryClass.py</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.1/src/code/query.py</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.1/src/tests/testGraphPackage.py</path>
 </paths>
 <msg>adding new test for part 2</msg>
 </logentry>
@@ -209,11 +1176,11 @@
 <date>2016-03-01T17:20:37.730020Z</date>
 <paths>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment2.1/src/tests/testQueryClass.py</path>
-<path
    action="M"
-   kind="file">/gvndprs2/Assignment2.1/src/code/query.py</path>
+   kind="file">/gvndprs2/Assignment2.1/src/tests/testQueryClass.py</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment2.1/src/code/query.py</path>
 </paths>
 <msg>Updating TODO</msg>
 </logentry>
@@ -234,11 +1201,11 @@
 <date>2016-03-01T16:52:34.091308Z</date>
 <paths>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment2.1/src/code/graph/graph.py</path>
-<path
    action="M"
-   kind="file">/gvndprs2/Assignment2.1/src/code/query.py</path>
+   kind="file">/gvndprs2/Assignment2.1/src/code/graph/graph.py</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment2.1/src/code/query.py</path>
 </paths>
 <msg>Updating code with dijkstra</msg>
 </logentry>
@@ -249,13 +1216,13 @@
 <paths>
 <path
    action="M"
+   kind="file">/gvndprs2/Assignment2.1/src/code/query.py</path>
+<path
+   action="M"
    kind="file">/gvndprs2/Assignment2.1/src/code/graph/node.py</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment2.1/src/code/command.py</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.1/src/code/query.py</path>
 </paths>
 <msg>Updating code with dijkstra</msg>
 </logentry>
@@ -265,20 +1232,20 @@
 <date>2016-03-01T06:00:02.008542Z</date>
 <paths>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment2.1/src/code/graph/graph.py</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment2.1/src/code/graph/graph.py</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment2.1/src/code/graph/edge.py</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment2.1/src/code/query.py</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment2.1/src/code/query.py</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment2.1/src/code/graph/node.py</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.1/src/code/command.py</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment2.1/src/code/command.py</path>
 </paths>
 <msg>updating code with cost and time</msg>
 </logentry>
@@ -288,23 +1255,23 @@
 <date>2016-02-29T04:36:07.904138Z</date>
 <paths>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.0/src/tests/testQueryClass.py</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment2.0/src/code/command.py</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.0/src/code/graph/edge.py</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment2.0/src/code/graph/graph.py</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment2.0/src/tests/testQueryClass.py</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment2.0/src/code/graph/edge.py</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment2.0/src/code/query.py</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.0/src/code/graph/node.py</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.0/src/code/command.py</path>
-<path
    kind="file"
-   action="M">/gvndprs2/Assignment2.0/src/code/graph/graph.py</path>
+   action="M">/gvndprs2/Assignment2.0/src/code/graph/node.py</path>
 </paths>
 <msg>rolled back</msg>
 </logentry>
@@ -326,10 +1293,10 @@
 <paths>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment2.1/src/code/graph/graph.py</path>
+   action="M">/gvndprs2/Assignment2.1/src/code/main.py</path>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment2.1/src/code/main.py</path>
+   action="M">/gvndprs2/Assignment2.1/src/code/graph/graph.py</path>
 </paths>
 <msg>Adding Assignment 2.1</msg>
 </logentry>
@@ -350,32 +1317,26 @@
 <date>2016-02-29T02:23:28.012361Z</date>
 <paths>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment2.0/src/tests/testQueryClass.py</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment2.1/src/code/main.py</path>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment2.1/src/tests/testQueryClass.py</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment2.1/src/code/main.py</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.0/src/code/graph/node.py</path>
+   action="M">/gvndprs2/Assignment2.0/src/code/graph/node.py</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment2.1/src/__init__.py</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment2.1/src/code/graph/node.py</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment2.1/src/res</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment2.1/src/code/__init__.py</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment2.1/src/code/graph/node.py</path>
 <path
    kind="dir"
-   action="A">/gvndprs2/Assignment2.1/src</path>
+   action="A">/gvndprs2/Assignment2.1/src/res</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment2.1/src/code/__init__.py</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment2.1/src</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment2.1/src/code/graph/__init__.py</path>
@@ -383,14 +1344,14 @@
    action="A"
    kind="dir">/gvndprs2/Assignment2.1/src/tests</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment2.0/src/code/graph/graph.py</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment2.0/src/code/graph/graph.py</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment2.1/src/code/graph/graph.py</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment2.1/src/code/graph/graph.py</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment2.0/src/code/graph/edge.py</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment2.0/src/code/graph/edge.py</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment2.0/src/code/query.py</path>
@@ -401,17 +1362,17 @@
    kind="file"
    action="A">/gvndprs2/Assignment2.1/src/res/temp.json</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment2.1/src/code/graph/edge.py</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment2.1/src/code/graph/edge.py</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment2.1/src/code/query.py</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment2.1/src/res/cmi_hub.json</path>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment2.1/src/code/query.py</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment2.1/src/res/cmi_hub.json</path>
-<path
-   kind="dir"
-   action="A">/gvndprs2/Assignment2.1</path>
+   kind="dir">/gvndprs2/Assignment2.1</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment2.1/src/res/data.json</path>
@@ -419,20 +1380,26 @@
    action="A"
    kind="dir">/gvndprs2/Assignment2.1/src/code</path>
 <path
-   kind="dir"
-   action="A">/gvndprs2/Assignment2.1/src/code/graph</path>
+   action="A"
+   kind="dir">/gvndprs2/Assignment2.1/src/code/graph</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment2.1/src/res/testMap.json</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment2.1/src/res/testMap.json</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment2.0/src/code/command.py</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment2.0/src/code/command.py</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment2.1/src/res/map.json</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment2.1/src/code/command.py</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment2.0/src/tests/testQueryClass.py</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment2.1/src/tests/testQueryClass.py</path>
 </paths>
 <msg>Adding Assignment 2.1</msg>
 </logentry>
@@ -443,10 +1410,10 @@
 <paths>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment2.0/src/code/command.py</path>
+   action="M">/gvndprs2/Assignment2.0/src/code/query.py</path>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment2.0/src/code/query.py</path>
+   action="M">/gvndprs2/Assignment2.0/src/code/command.py</path>
 </paths>
 <msg>updated command comments</msg>
 </logentry>
@@ -472,32 +1439,32 @@
    copyfrom-rev="7232"
    action="R">/gvndprs2/Assignment2.0/src/code/graph/graph.py</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment2.0/src/tests/testQueryClass.py</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment2.0/src/tests/testQueryClass.py</path>
 <path
-   kind="file"
    copyfrom-path="/gvndprs2/Assignment2.0/src/main.py"
    copyfrom-rev="7233"
-   action="A">/gvndprs2/Assignment2.0/src/code/main.py</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment2.0/src/code/main.py</path>
 <path
-   action="D"
-   kind="file">/gvndprs2/Assignment2.0/src/command.py</path>
+   kind="file"
+   action="D">/gvndprs2/Assignment2.0/src/command.py</path>
 <path
    kind="file"
    copyfrom-path="/gvndprs2/Assignment2.0/src/query.py"
    copyfrom-rev="7229"
    action="A">/gvndprs2/Assignment2.0/src/code/query.py</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.0/src/tests/testGraphPackage.py</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment2.0/src/tests/testGraphPackage.py</path>
 <path
-   action="A"
-   kind="dir">/gvndprs2/Assignment2.0/src/code</path>
+   kind="dir"
+   action="A">/gvndprs2/Assignment2.0/src/code</path>
 <path
-   action="A"
    kind="dir"
    copyfrom-path="/gvndprs2/Assignment2.0/src/graph"
-   copyfrom-rev="7229">/gvndprs2/Assignment2.0/src/code/graph</path>
+   copyfrom-rev="7229"
+   action="A">/gvndprs2/Assignment2.0/src/code/graph</path>
 <path
    action="D"
    kind="file">/gvndprs2/Assignment2.0/src/main.py</path>
@@ -505,13 +1472,13 @@
    action="D"
    kind="file">/gvndprs2/Assignment2.0/src/query.py</path>
 <path
-   copyfrom-path="/gvndprs2/Assignment2.0/src/command.py"
-   copyfrom-rev="7232"
    action="A"
-   kind="file">/gvndprs2/Assignment2.0/src/code/command.py</path>
-<path
    kind="file"
-   action="A">/gvndprs2/Assignment2.0/src/code/__init__.py</path>
+   copyfrom-path="/gvndprs2/Assignment2.0/src/command.py"
+   copyfrom-rev="7232">/gvndprs2/Assignment2.0/src/code/command.py</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment2.0/src/code/__init__.py</path>
 <path
    kind="dir"
    action="D">/gvndprs2/Assignment2.0/src/graph</path>
@@ -542,15 +1509,6 @@
 <paths>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment2.0/src/graph/graph.py</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment2.0/src/main.py</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment2.0/src/res/testmap.json</path>
-<path
-   kind="file"
    action="M">/gvndprs2/Assignment2.0/src/tests/testQueryClass.py</path>
 <path
    action="M"
@@ -558,6 +1516,15 @@
 <path
    action="M"
    kind="file">/gvndprs2/Assignment2.0/src/tests/testGraphPackage.py</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment2.0/src/graph/graph.py</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment2.0/src/main.py</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment2.0/src/res/testmap.json</path>
 </paths>
 <msg>update</msg>
 </logentry>
@@ -567,10 +1534,18 @@
 <date>2016-02-26T06:59:57.434445Z</date>
 <paths>
 <path
-   action="A"
+   kind="file"
+   action="A">/gvndprs2/Assignment2.0/src/tests/testQueryClass.py</path>
+<path
+   kind="file"
+   copyfrom-path="/gvndprs2/Assignment2.0/src/query.py"
+   copyfrom-rev="6729"
+   action="A">/gvndprs2/Assignment2.0/src/command.py</path>
+<path
    kind="file"
    copyfrom-path="/gvndprs2/Assignment2.0/src/tests/testGraphClass.py"
-   copyfrom-rev="6729">/gvndprs2/Assignment2.0/src/tests/testGraphPackage.py</path>
+   copyfrom-rev="6729"
+   action="A">/gvndprs2/Assignment2.0/src/tests/testGraphPackage.py</path>
 <path
    action="D"
    kind="dir">/gvndprs2/Assignment2.0/src/graphClass</path>
@@ -578,48 +1553,40 @@
    action="D"
    kind="file">/gvndprs2/Assignment2.0/src/res/map_data.json</path>
 <path
+   action="R"
    kind="file"
    copyfrom-path="/gvndprs2/Assignment2.0/src/graphClass/graph.py"
-   copyfrom-rev="6729"
-   action="R">/gvndprs2/Assignment2.0/src/graph/graph.py</path>
+   copyfrom-rev="6729">/gvndprs2/Assignment2.0/src/graph/graph.py</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment2.0/src/main.py</path>
 <path
-   kind="file"
    copyfrom-path="/gvndprs2/Assignment2.0/src/graphClass/edge.py"
    copyfrom-rev="6729"
-   action="R">/gvndprs2/Assignment2.0/src/graph/edge.py</path>
-<path
    action="R"
-   kind="file">/gvndprs2/Assignment2.0/src/query.py</path>
+   kind="file">/gvndprs2/Assignment2.0/src/graph/edge.py</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.0/src/graph/node.py</path>
+   kind="file"
+   action="R">/gvndprs2/Assignment2.0/src/query.py</path>
 <path
-   action="A"
+   kind="file"
+   action="M">/gvndprs2/Assignment2.0/src/graph/node.py</path>
+<path
    kind="file"
    copyfrom-path="/gvndprs2/Assignment2.0/src/res/map_data.json"
-   copyfrom-rev="6715">/gvndprs2/Assignment2.0/src/res/map.json</path>
+   copyfrom-rev="6715"
+   action="A">/gvndprs2/Assignment2.0/src/res/map.json</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment2.0/src/res/testMap.json</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment2.0/src/tests/testGraphClass.py</path>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment2.0/src/res/testMap.json</path>
-<path
-   action="D"
-   kind="file">/gvndprs2/Assignment2.0/src/tests/testGraphClass.py</path>
-<path
    kind="dir"
    copyfrom-path="/gvndprs2/Assignment2.0/src/graphClass"
-   copyfrom-rev="6724"
-   action="A">/gvndprs2/Assignment2.0/src/graph</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment2.0/src/tests/testQueryClass.py</path>
-<path
-   action="A"
-   kind="file"
-   copyfrom-path="/gvndprs2/Assignment2.0/src/query.py"
-   copyfrom-rev="6729">/gvndprs2/Assignment2.0/src/command.py</path>
+   copyfrom-rev="6724">/gvndprs2/Assignment2.0/src/graph</path>
 </paths>
 <msg>added new test cases. Commented Code.</msg>
 </logentry>
@@ -635,17 +1602,17 @@
    action="M"
    kind="file">/gvndprs2/Assignment2.0/src/query.py</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.0/src/graphClass/graph.py</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment2.0/src/graphClass/graph.py</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment2.0/src/tests/testGraphClass.py</path>
 <path
-   action="A"
-   kind="dir">/gvndprs2/Assignment2.0/src/tests</path>
+   kind="dir"
+   action="A">/gvndprs2/Assignment2.0/src/tests</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.0/src/graphClass/edge.py</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment2.0/src/graphClass/edge.py</path>
 </paths>
 <msg>update tests</msg>
 </logentry>
@@ -654,11 +1621,6 @@
 <author>gvndprs2</author>
 <date>2016-02-23T22:29:22.312447Z</date>
 <paths>
-<path
-   action="A"
-   kind="file"
-   copyfrom-path="/gvndprs2/Assignment2.0/src/node.py"
-   copyfrom-rev="6715">/gvndprs2/Assignment2.0/src/graphClass/node.py</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment2.0/src/__init__.py</path>
@@ -686,10 +1648,15 @@
    copyfrom-path="/gvndprs2/Assignment2.0/src/graph.py"
    copyfrom-rev="6715">/gvndprs2/Assignment2.0/src/graphClass/graph.py</path>
 <path
+   action="A"
+   kind="file"
    copyfrom-path="/gvndprs2/Assignment2.0/src/edge.py"
+   copyfrom-rev="6715">/gvndprs2/Assignment2.0/src/graphClass/edge.py</path>
+<path
+   copyfrom-path="/gvndprs2/Assignment2.0/src/node.py"
    copyfrom-rev="6715"
    action="A"
-   kind="file">/gvndprs2/Assignment2.0/src/graphClass/edge.py</path>
+   kind="file">/gvndprs2/Assignment2.0/src/graphClass/node.py</path>
 </paths>
 <msg>updating graph package information</msg>
 </logentry>
@@ -699,11 +1666,11 @@
 <date>2016-02-23T22:09:28.670322Z</date>
 <paths>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.0/src/main.py</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment2.0/src/main.py</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment2.0/src/query.py</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment2.0/src/query.py</path>
 </paths>
 <msg>updated query commentation</msg>
 </logentry>
@@ -713,17 +1680,14 @@
 <date>2016-02-23T19:31:40.865127Z</date>
 <paths>
 <path
-   action="A"
-   kind="dir">/gvndprs2/Assignment2.0/src/res</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment2.0/src/edge.py</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment2.0/src/edge.py</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment2.0/src/main.py</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment2.0/src/node.py</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment2.0/src/node.py</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment2.0/src/query.py</path>
@@ -731,11 +1695,14 @@
    action="A"
    kind="dir">/gvndprs2/Assignment2.0/src</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment2.0/src/res/map_data.json</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment2.0/src/res/map_data.json</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment2.0/src/graph.py</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment2.0/src/res</path>
 </paths>
 <msg>version 0.0</msg>
 </logentry>
@@ -746,19 +1713,19 @@
 <paths>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.2/out/artifacts/Assignment1_2_jar/ChessGame.jar</path>
-<path
-   action="M"
    kind="file">/gvndprs2/Assignment1.2/src/code/Controller/Move.java</path>
 <path
    action="A"
    kind="dir">/gvndprs2/Assignment2.0</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/Model.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/Model.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/Model.class</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/Model.class</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/out/artifacts/Assignment1_2_jar/ChessGame.jar</path>
 </paths>
 <msg>updating new assignment folder</msg>
 </logentry>
@@ -788,212 +1755,23 @@
 <date>2016-02-19T06:07:25.062511Z</date>
 <paths>
 <path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/Model.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testKing.class</path>
+<path
    action="A"
    kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/King.class</path>
-<path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/View</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whiteRook.png</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testPawn.class</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testCheckBlack.class</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whiteInvincible.png</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testRook.class</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2/META-INF</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/View/View.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/ReturnTypes/CoordRet.class</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Bishop.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Piece.class</path>
-<path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.2/out/production</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/META-INF/MANIFEST.MF</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/whiteDiver.png</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/blackQueen.png</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/King.class</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/ReturnTypes/MapRet.class</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes/testKnight.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTurn.class</path>
-<path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/Square.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/Square.class</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/blackKnight.png</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel</path>
-<path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.2/out</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/artifacts/Assignment1_2_jar/ChessGame.jar</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/blackKing.png</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/whiteBishop.png</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/Game.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/blackQueen.png</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whiteDiver.png</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Game.class</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testInvinsible.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Diver.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes/testPawn.class</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Controller</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/blackBishop.png</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/CoordRet.class</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.1</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/blackPawn.png</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes/testDiver.class</path>
-<path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.2/out/artifacts</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/src/META-INF</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whiteKnight.png</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes/testRook.class</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testQueen.class</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Invincible.class</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/Board.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whiteKing.png</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/Queen.class</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/whiteRook.png</path>
-<path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTurn.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testKnight.class</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/Bishop.class</path>
-<path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testKing.class</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/ReturnTypes</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/whiteInvincible.png</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whitePawn.png</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whitePawn.png</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/blackRook.png</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Controller/Controller.class</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/blackRook.png</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Controller/BoardUnit.class</path>
@@ -1001,8 +1779,173 @@
    kind="file"
    action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/blackInvincible.png</path>
 <path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/GUI/BoardGUI.class</path>
+<path
    action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/GUI/BoardGUI.class</path>
+   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2/META-INF</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testCheckWhite.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/View/View.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Knight.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Piece.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/whiteDiver.png</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/blackQueen.png</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes/testBishop.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/Piece.class</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/blackBishop.png</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/ReturnTypes/PairType.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes/testKing.class</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.2/out</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testGameEnding.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/artifacts/Assignment1_2_jar/ChessGame.jar</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/whiteKnight.png</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Pawn.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/blackQueen.png</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whiteDiver.png</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/whiteKing.png</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Diver.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Rook.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/blackKnight.png</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes/testDiver.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/Diver.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/blackKing.png</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whiteBishop.png</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2/out/artifacts</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testQueen.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/whitePawn.png</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/Board.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/MapRet.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/blackRook.png</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/GUI/Move.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes/testInvincible.class</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testBishop.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/PairType.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/Bishop.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/blackInvincible.png</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/blackPawn.png</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/ReturnTypes</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/View</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Controller/Controller.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whiteRook.png</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testPawn.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testCheckBlack.class</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/Pawn.class</path>
@@ -1011,136 +1954,160 @@
    action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/GUI</path>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testCheckWhite.class</path>
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whiteInvincible.png</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testRook.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/Rook.class</path>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/Rook.class</path>
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/ReturnTypes/CoordRet.class</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/blackDiver.png</path>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Knight.class</path>
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Bishop.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testCheckMate.class</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2/out/production</path>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testCheckMate.class</path>
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Controller/Move.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/META-INF/MANIFEST.MF</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/King.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/ReturnTypes/MapRet.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/Invincible.class</path>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Controller/Move.class</path>
+   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code</path>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/Invincible.class</path>
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes/testKnight.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTurn.class</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/whiteQueen.png</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/Square.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/Square.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/blackKnight.png</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/blackDiver.png</path>
 <path
    kind="dir"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code</path>
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes</path>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes/testBishop.class</path>
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/blackKing.png</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/whiteBishop.png</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/Game.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Game.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/GUI/BoardUnit.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testInvinsible.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whiteQueen.png</path>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/whiteQueen.png</path>
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes/testPawn.class</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/Piece.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/blackBishop.png</path>
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Controller</path>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/ReturnTypes/PairType.class</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes/testKing.class</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testGameEnding.class</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/blackDiver.png</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/whiteKnight.png</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Pawn.class</path>
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/blackBishop.png</path>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/whiteKing.png</path>
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Queen.class</path>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/GUI/BoardUnit.class</path>
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/CoordRet.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testDiver.class</path>
 <path
    action="A"
-   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whiteQueen.png</path>
+   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.1</path>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Rook.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/blackKnight.png</path>
+   kind="dir">/gvndprs2/Assignment1.2/out/production/Assignment1.2</path>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Queen.class</path>
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/blackPawn.png</path>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testDiver.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/Diver.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/blackKing.png</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whiteBishop.png</path>
+   kind="dir">/gvndprs2/Assignment1.2/src/META-INF</path>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/whitePawn.png</path>
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whiteKnight.png</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes/testRook.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/types/Invincible.class</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes/testQueen.class</path>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/MapRet.class</path>
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/whiteKing.png</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/blackRook.png</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/Queen.class</path>
 <path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/out/artifacts/Assignment1_2_jar</path>
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.2/out/artifacts/Assignment1_2_jar</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/META-INF/MANIFEST.MF</path>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/GUI/Move.class</path>
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/whiteRook.png</path>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/test/testModel/testTypes/testInvincible.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testBishop.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.1/code/PairType.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/Knight.class</path>
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTurn.class</path>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/img/blackInvincible.png</path>
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.1/test/testTypes/testKnight.class</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/res/blackPawn.png</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/Model.class</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/out/production/Assignment1.2/code/Model/PieceTypes/Knight.class</path>
 </paths>
 <msg>update jar file</msg>
 </logentry>
@@ -1150,8 +2117,8 @@
 <date>2016-02-19T05:01:00.039439Z</date>
 <paths>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/Doxyfile</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/Doxyfile</path>
 </paths>
 <msg>adding new DoxyFile</msg>
 </logentry>
@@ -1161,103 +2128,103 @@
 <date>2016-02-19T04:56:32.767916Z</date>
 <paths>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Pawn.java</path>
-<path
-   action="D"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testCheckBlack.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Queen.java</path>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testDiver.java</path>
-<path
-   kind="file"
-   action="D">/gvndprs2/Assignment1.2/src/test/testModel/testCheckWhite.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Diver.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testRook.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testQueen.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Queen.java</path>
-<path
-   action="D"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testCheckMate.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Controller/Move.java</path>
-<path
    copyfrom-path="/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testInvinsible.java"
    copyfrom-rev="6069"
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testInvincible.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/ReturnTypes/MapRet.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Bishop.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Knight.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/Square.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/Model.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/King.java</path>
+   action="A">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testInvincible.java</path>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Controller/Controller.java</path>
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Invincible.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/ReturnTypes/MapRet.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/Square.java</path>
 <path
    action="D"
    kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testInvinsible.java</path>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/View/View.java</path>
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testDiver.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/ReturnTypes/CoordRet.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testQueen.java</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment1.2/src/test/testModel/testCheckMate.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Controller/Move.java</path>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Rook.java</path>
+   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTurn.java</path>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/ReturnTypes/CoordRet.java</path>
+   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testBishop.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testKnight.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Knight.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Piece.java</path>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Invincible.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTurn.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testBishop.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testKnight.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Piece.java</path>
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/Model.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.2/src/code/Model/ReturnTypes/PairType.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testKing.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testKing.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testGameEnding.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/King.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/test/testModel/testGameEnding.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Controller/Controller.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.2/src/code/Game.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.2/src/code/Controller/BoardUnit.java</path>
+<path
+   action="D"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testCheckBlack.java</path>
+<path
+   action="D"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testCheckWhite.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Diver.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testRook.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/View/View.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Rook.java</path>
 </paths>
 <msg>Added Comments for all files and improved on MVC structure
 </msg>
@@ -1268,65 +2235,6 @@
 <date>2016-02-18T19:13:42.721474Z</date>
 <paths>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testCheckBlack.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Pawn.java</path>
-<path
-   action="D"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/CoordRet.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testDiver.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Diver.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testCheckWhite.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testRook.java</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/src/code/Model/ReturnTypes</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testQueen.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Queen.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testCheckMate.java</path>
-<path
-   action="A"
-   kind="file"
-   copyfrom-path="/gvndprs2/Assignment1.2/src/code/Model/MapRet.java"
-   copyfrom-rev="6035">/gvndprs2/Assignment1.2/src/code/Model/ReturnTypes/MapRet.java</path>
-<path
-   action="D"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PairType.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Bishop.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Knight.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/Model.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/Square.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/King.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Controller/Controller.java</path>
-<path
    kind="file"
    action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testInvinsible.java</path>
 <path
@@ -1334,41 +2242,100 @@
    kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testPawn.java</path>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/View/View.java</path>
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Pawn.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Rook.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testDiver.java</path>
 <path
+   kind="file"
    copyfrom-path="/gvndprs2/Assignment1.2/src/code/Model/CoordRet.java"
    copyfrom-rev="6035"
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/ReturnTypes/CoordRet.java</path>
+   action="A">/gvndprs2/Assignment1.2/src/code/Model/ReturnTypes/CoordRet.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testQueen.java</path>
 <path
    action="D"
    kind="file">/gvndprs2/Assignment1.2/src/code/Model/MapRet.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Invincible.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTurn.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testBishop.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testCheckMate.java</path>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testKnight.java</path>
+   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTurn.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testBishop.java</path>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Piece.java</path>
+   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testKnight.java</path>
 <path
    kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Knight.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Piece.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/Model.java</path>
+<path
    copyfrom-path="/gvndprs2/Assignment1.2/src/code/Model/PairType.java"
    copyfrom-rev="6035"
-   action="A">/gvndprs2/Assignment1.2/src/code/Model/ReturnTypes/PairType.java</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/ReturnTypes/PairType.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testKing.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/King.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Controller/Controller.java</path>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testKing.java</path>
+   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testCheckBlack.java</path>
+<path
+   action="D"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/CoordRet.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Diver.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testCheckWhite.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testRook.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/View/View.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2/src/code/Model/ReturnTypes</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Queen.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Invincible.java</path>
+<path
+   copyfrom-path="/gvndprs2/Assignment1.2/src/code/Model/MapRet.java"
+   copyfrom-rev="6035"
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/ReturnTypes/MapRet.java</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment1.2/src/code/Model/PairType.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/Square.java</path>
 </paths>
 <msg>Refactored folders</msg>
 </logentry>
@@ -1390,22 +2357,143 @@
 <date>2016-02-18T17:32:35.767372Z</date>
 <paths>
 <path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/King.java</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2/src/code/Controller</path>
+<path
+   action="D"
+   kind="dir">/gvndprs2/Assignment1.2/src/code/GUI</path>
+<path
+   copyfrom-path="/gvndprs2/Assignment1.2/src/code/GUI/Controller.java"
+   copyfrom-rev="5639"
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Controller/Controller.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Game.java</path>
+<path
+   kind="file"
+   copyfrom-path="/gvndprs2/Assignment1.2/src/code/GUI/BoardUnit.java"
+   copyfrom-rev="5639"
+   action="A">/gvndprs2/Assignment1.2/src/code/Controller/BoardUnit.java</path>
+<path
+   kind="file"
+   copyfrom-path="/gvndprs2/Assignment1.2/src/test/testCheckBlack.java"
+   copyfrom-rev="5639"
+   action="A">/gvndprs2/Assignment1.2/src/test/testModel/testCheckBlack.java</path>
+<path
+   action="D"
+   kind="file">/gvndprs2/Assignment1.2/src/code/View/Move.java</path>
+<path
+   action="D"
+   kind="file">/gvndprs2/Assignment1.2/src/code/CoordRet.java</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/gvndprs2/Assignment1.2/src/code/CoordRet.java"
+   copyfrom-rev="5518">/gvndprs2/Assignment1.2/src/code/Model/CoordRet.java</path>
+<path
+   copyfrom-path="/gvndprs2/Assignment1.2/src/test/testCheckWhite.java"
+   copyfrom-rev="5639"
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testCheckWhite.java</path>
+<path
+   kind="file"
+   copyfrom-path="/gvndprs2/Assignment1.2/src/test/testTypes/testRook.java"
+   copyfrom-rev="5639"
+   action="R">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testRook.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Diver.java</path>
+<path
+   kind="file"
+   copyfrom-path="/gvndprs2/Assignment1.2/src/code/GUI/View.java"
+   copyfrom-rev="5639"
+   action="A">/gvndprs2/Assignment1.2/src/code/View/View.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Rook.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Queen.java</path>
+<path
+   action="D"
+   kind="dir">/gvndprs2/Assignment1.2/src/test/testTypes</path>
+<path
+   action="D"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testCheckMate.java</path>
+<path
+   copyfrom-path="/gvndprs2/Assignment1.2/src/code/GUI"
+   copyfrom-rev="5518"
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2/src/code/View</path>
+<path
+   copyfrom-path="/gvndprs2/Assignment1.2/src/code/types"
+   copyfrom-rev="5518"
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Invincible.java</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment1.2/src/code/PairType.java</path>
+<path
+   kind="file"
+   copyfrom-path="/gvndprs2/Assignment1.2/src/code/PairType.java"
+   copyfrom-rev="5518"
+   action="A">/gvndprs2/Assignment1.2/src/code/Model/PairType.java</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment1.2/src/test/testTurn.java</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/gvndprs2/Assignment1.2/src/code/Square.java"
+   copyfrom-rev="5639">/gvndprs2/Assignment1.2/src/code/Model/Square.java</path>
+<path
+   action="D"
+   kind="file">/gvndprs2/Assignment1.2/src/code/Square.java</path>
+<path
+   action="D"
+   kind="file">/gvndprs2/Assignment1.2/src/code/View/BoardGUI.java</path>
+<path
+   copyfrom-path="/gvndprs2/Assignment1.2/src/test/testTypes/testInvinsible.java"
+   copyfrom-rev="5639"
+   action="R"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testInvinsible.java</path>
+<path
+   copyfrom-path="/gvndprs2/Assignment1.2/src/test/testTypes/testPawn.java"
+   copyfrom-rev="5639"
+   action="R"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testPawn.java</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment1.2/src/test/testCheckBlack.java</path>
+<path
+   kind="file"
+   copyfrom-path="/gvndprs2/Assignment1.2/src/code/types/Pawn.java"
+   copyfrom-rev="5639"
+   action="R">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Pawn.java</path>
+<path
    kind="dir"
    action="A">/gvndprs2/Assignment1.2/src/code/Model</path>
 <path
-   action="D"
-   kind="dir">/gvndprs2/Assignment1.2/src/img</path>
+   kind="dir"
+   action="D">/gvndprs2/Assignment1.2/src/img</path>
 <path
+   action="R"
    kind="file"
    copyfrom-path="/gvndprs2/Assignment1.2/src/test/testTypes/testDiver.java"
-   copyfrom-rev="5639"
-   action="R">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testDiver.java</path>
+   copyfrom-rev="5639">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testDiver.java</path>
 <path
    action="D"
    kind="file">/gvndprs2/Assignment1.2/src/test/testCheckWhite.java</path>
 <path
-   kind="dir"
-   action="D">/gvndprs2/Assignment1.2/src/code/types</path>
+   action="D"
+   kind="dir">/gvndprs2/Assignment1.2/src/code/types</path>
 <path
    action="A"
    kind="dir">/gvndprs2/Assignment1.2/src/test/testModel</path>
@@ -1428,33 +2516,33 @@
    copyfrom-rev="5639"
    action="A">/gvndprs2/Assignment1.2/src/code/Controller/Move.java</path>
 <path
-   action="A"
    kind="file"
    copyfrom-path="/gvndprs2/Assignment1.2/src/test/testCheckMate.java"
-   copyfrom-rev="5639">/gvndprs2/Assignment1.2/src/test/testModel/testCheckMate.java</path>
+   copyfrom-rev="5639"
+   action="A">/gvndprs2/Assignment1.2/src/test/testModel/testCheckMate.java</path>
 <path
    action="A"
    kind="dir"
    copyfrom-path="/gvndprs2/Assignment1.2/src/test/testTypes"
    copyfrom-rev="5518">/gvndprs2/Assignment1.2/src/test/testModel/testTypes</path>
 <path
-   copyfrom-path="/gvndprs2/Assignment1.2/src/test/testTurn.java"
-   copyfrom-rev="5639"
    action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTurn.java</path>
-<path
-   copyfrom-path="/gvndprs2/Assignment1.2/src/test/testTypes/testBishop.java"
-   copyfrom-rev="5639"
-   action="R"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testBishop.java</path>
-<path
    kind="file"
+   copyfrom-path="/gvndprs2/Assignment1.2/src/test/testTurn.java"
+   copyfrom-rev="5639">/gvndprs2/Assignment1.2/src/test/testModel/testTurn.java</path>
+<path
+   action="R"
+   kind="file"
+   copyfrom-path="/gvndprs2/Assignment1.2/src/test/testTypes/testBishop.java"
+   copyfrom-rev="5639">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testBishop.java</path>
+<path
    copyfrom-path="/gvndprs2/Assignment1.2/src/test/testTypes/testKnight.java"
    copyfrom-rev="5639"
-   action="R">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testKnight.java</path>
+   action="R"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testKnight.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Knight.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Knight.java</path>
 <path
    kind="file"
    copyfrom-path="/gvndprs2/Assignment1.2/src/code/types/Bishop.java"
@@ -1466,8 +2554,8 @@
    copyfrom-rev="5518"
    action="A">/gvndprs2/Assignment1.2/src/res</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Piece.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Piece.java</path>
 <path
    action="A"
    kind="file"
@@ -1480,131 +2568,10 @@
    action="D"
    kind="file">/gvndprs2/Assignment1.2/src/code/View/BoardUnit.java</path>
 <path
+   action="R"
    kind="file"
    copyfrom-path="/gvndprs2/Assignment1.2/src/test/testTypes/testKing.java"
-   copyfrom-rev="5639"
-   action="R">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testKing.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/King.java</path>
-<path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.2/src/code/Controller</path>
-<path
-   kind="dir"
-   action="D">/gvndprs2/Assignment1.2/src/code/GUI</path>
-<path
-   kind="file"
-   copyfrom-path="/gvndprs2/Assignment1.2/src/code/GUI/Controller.java"
-   copyfrom-rev="5639"
-   action="A">/gvndprs2/Assignment1.2/src/code/Controller/Controller.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Game.java</path>
-<path
-   action="A"
-   kind="file"
-   copyfrom-path="/gvndprs2/Assignment1.2/src/code/GUI/BoardUnit.java"
-   copyfrom-rev="5639">/gvndprs2/Assignment1.2/src/code/Controller/BoardUnit.java</path>
-<path
-   copyfrom-path="/gvndprs2/Assignment1.2/src/test/testCheckBlack.java"
-   copyfrom-rev="5639"
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testModel/testCheckBlack.java</path>
-<path
-   action="D"
-   kind="file">/gvndprs2/Assignment1.2/src/code/View/Move.java</path>
-<path
-   kind="file"
-   action="D">/gvndprs2/Assignment1.2/src/code/CoordRet.java</path>
-<path
-   kind="file"
-   copyfrom-path="/gvndprs2/Assignment1.2/src/code/CoordRet.java"
-   copyfrom-rev="5518"
-   action="A">/gvndprs2/Assignment1.2/src/code/Model/CoordRet.java</path>
-<path
-   action="A"
-   kind="file"
-   copyfrom-path="/gvndprs2/Assignment1.2/src/test/testCheckWhite.java"
-   copyfrom-rev="5639">/gvndprs2/Assignment1.2/src/test/testModel/testCheckWhite.java</path>
-<path
-   kind="file"
-   copyfrom-path="/gvndprs2/Assignment1.2/src/test/testTypes/testRook.java"
-   copyfrom-rev="5639"
-   action="R">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testRook.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Diver.java</path>
-<path
-   action="A"
-   kind="file"
-   copyfrom-path="/gvndprs2/Assignment1.2/src/code/GUI/View.java"
-   copyfrom-rev="5639">/gvndprs2/Assignment1.2/src/code/View/View.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Rook.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Queen.java</path>
-<path
-   action="D"
-   kind="dir">/gvndprs2/Assignment1.2/src/test/testTypes</path>
-<path
-   action="D"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testCheckMate.java</path>
-<path
-   kind="dir"
-   copyfrom-path="/gvndprs2/Assignment1.2/src/code/GUI"
-   copyfrom-rev="5518"
-   action="A">/gvndprs2/Assignment1.2/src/code/View</path>
-<path
-   kind="dir"
-   copyfrom-path="/gvndprs2/Assignment1.2/src/code/types"
-   copyfrom-rev="5518"
-   action="A">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Invincible.java</path>
-<path
-   kind="file"
-   action="D">/gvndprs2/Assignment1.2/src/code/PairType.java</path>
-<path
-   action="A"
-   kind="file"
-   copyfrom-path="/gvndprs2/Assignment1.2/src/code/PairType.java"
-   copyfrom-rev="5518">/gvndprs2/Assignment1.2/src/code/Model/PairType.java</path>
-<path
-   action="D"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testTurn.java</path>
-<path
-   action="A"
-   kind="file"
-   copyfrom-path="/gvndprs2/Assignment1.2/src/code/Square.java"
-   copyfrom-rev="5639">/gvndprs2/Assignment1.2/src/code/Model/Square.java</path>
-<path
-   action="D"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Square.java</path>
-<path
-   action="D"
-   kind="file">/gvndprs2/Assignment1.2/src/code/View/BoardGUI.java</path>
-<path
-   kind="file"
-   copyfrom-path="/gvndprs2/Assignment1.2/src/test/testTypes/testInvinsible.java"
-   copyfrom-rev="5639"
-   action="R">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testInvinsible.java</path>
-<path
-   kind="file"
-   copyfrom-path="/gvndprs2/Assignment1.2/src/test/testTypes/testPawn.java"
-   copyfrom-rev="5639"
-   action="R">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testPawn.java</path>
-<path
-   kind="file"
-   action="D">/gvndprs2/Assignment1.2/src/test/testCheckBlack.java</path>
-<path
-   kind="file"
-   copyfrom-path="/gvndprs2/Assignment1.2/src/code/types/Pawn.java"
-   copyfrom-rev="5639"
-   action="R">/gvndprs2/Assignment1.2/src/code/Model/PieceTypes/Pawn.java</path>
+   copyfrom-rev="5639">/gvndprs2/Assignment1.2/src/test/testModel/testTypes/testKing.java</path>
 </paths>
 <msg> before commenting</msg>
 </logentry>
@@ -1613,6 +2580,15 @@
 <author>gvndprs2</author>
 <date>2016-02-16T21:44:06.982935Z</date>
 <paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testTypes/testPawn.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testCheckBlack.java</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment1.2/src/code/GUI/BoardGUI.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.2/src/test/testTypes/testDiver.java</path>
@@ -1632,8 +2608,8 @@
    action="M"
    kind="file">/gvndprs2/Assignment1.2/src/code/types/Bishop.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testCheckMate.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testCheckMate.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.2/src/code/GUI/Move.java</path>
@@ -1641,8 +2617,8 @@
    action="M"
    kind="file">/gvndprs2/Assignment1.2/src/test/testTypes/testBishop.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testTurn.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testTurn.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.2/src/test/testTypes/testKnight.java</path>
@@ -1657,14 +2633,14 @@
    copyfrom-rev="5518"
    action="A">/gvndprs2/Assignment1.2/src/code/Model.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/code/Square.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testTypes/testKing.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.2/src/code/Square.java</path>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/code/GUI/Controller.java</path>
+   action="M">/gvndprs2/Assignment1.2/src/test/testTypes/testKing.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/code/GUI/Controller.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.2/src/code/Game.java</path>
@@ -1672,20 +2648,11 @@
    action="M"
    kind="file">/gvndprs2/Assignment1.2/src/code/types/Pawn.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testTypes/testInvinsible.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/code/GUI/BoardUnit.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testTypes/testPawn.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testTypes/testInvinsible.java</path>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testCheckBlack.java</path>
-<path
-   kind="file"
-   action="D">/gvndprs2/Assignment1.2/src/code/GUI/BoardGUI.java</path>
+   kind="file">/gvndprs2/Assignment1.2/src/code/GUI/BoardUnit.java</path>
 </paths>
 <msg>update working GUI</msg>
 </logentry>
@@ -1695,8 +2662,8 @@
 <date>2016-02-15T06:45:49.773456Z</date>
 <paths>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/Assignment1.2.iml</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/Assignment1.2.iml</path>
 </paths>
 <msg>updatE</msg>
 </logentry>
@@ -1706,8 +2673,8 @@
 <date>2016-02-15T06:44:50.299885Z</date>
 <paths>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.2/src/test/testCheckBlack.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testCheckBlack.java</path>
 </paths>
 <msg>update</msg>
 </logentry>
@@ -1716,45 +2683,6 @@
 <author>gvndprs2</author>
 <date>2016-02-15T06:41:16.039219Z</date>
 <paths>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/code/types/Bishop.java</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/code/types/Knight.java</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/img/whiteInvincible.png</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/src/test/testTypes</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/code/types/Piece.java</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testCheckMate.java</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/code/types/King.java</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/test/testTypes/testKnight.java</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/test/testTypes/testBishop.java</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/test/testTurn.java</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/code/PairType.java</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/code/Square.java</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/test/testTypes/testKing.java</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment1.2/src/code/GUI/BoardUnit.java</path>
@@ -1765,14 +2693,14 @@
    action="A"
    kind="file">/gvndprs2/Assignment1.2/src/code/types/Rook.java</path>
 <path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testCheckBlack.java</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.2/src/code</path>
+<path
    kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/test/testCheckBlack.java</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.2/src/code</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/code/types/Queen.java</path>
+   action="A">/gvndprs2/Assignment1.2/src/code/types/Queen.java</path>
 <path
    kind="dir"
    action="A">/gvndprs2/Assignment1.2/src/img</path>
@@ -1780,14 +2708,14 @@
    kind="file"
    action="A">/gvndprs2/Assignment1.2/src/test/testCheckWhite.java</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/test/testTypes/testRook.java</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testTypes/testRook.java</path>
 <path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.2/src/code/types</path>
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2/src/code/types</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/img/blackKnight.png</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/img/blackKnight.png</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment1.2/src/img/blackBishop.png</path>
@@ -1801,11 +2729,11 @@
    kind="file"
    action="A">/gvndprs2/Assignment1.2/src/code/MapRet.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/img/blackKing.png</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/img/blackKing.png</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/img/whiteKnight.png</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/img/whiteKnight.png</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.2/src/img/whiteBishop.png</path>
@@ -1813,17 +2741,17 @@
    kind="file"
    action="A">/gvndprs2/Assignment1.2/src/code/GUI/Move.java</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/img/whiteKing.png</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/img/whiteKing.png</path>
 <path
    action="A"
    kind="dir">/gvndprs2/Assignment1.2/src/code/GUI</path>
 <path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.2/src</path>
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2/src</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/img/blackPawn.png</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/img/blackPawn.png</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment1.2/src/code/types/Pawn.java</path>
@@ -1831,17 +2759,17 @@
    action="A"
    kind="file">/gvndprs2/Assignment1.2/src/code/Game.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/img/whitePawn.png</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/img/whitePawn.png</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.2/src/test/testTypes/testInvinsible.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/img/blackDiver.png</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/img/blackDiver.png</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/img/blackRook.png</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/img/blackRook.png</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.2/src/test/testTypes/testPawn.java</path>
@@ -1849,17 +2777,17 @@
    kind="file"
    action="A">/gvndprs2/Assignment1.2/src/img/blackQueen.png</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/img/whiteDiver.png</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/img/whiteDiver.png</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment1.2/src/img/whiteRook.png</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/code/GUI/BoardGUI.java</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/code/GUI/BoardGUI.java</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.2/src/code/CoordRet.java</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/code/CoordRet.java</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment1.2/src/test/testTypes/testDiver.java</path>
@@ -1867,14 +2795,53 @@
    action="A"
    kind="file">/gvndprs2/Assignment1.2/src/img/whiteQueen.png</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/img/blackInvincible.png</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/img/blackInvincible.png</path>
 <path
    kind="dir"
    action="A">/gvndprs2/Assignment1.2/src/test</path>
 <path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/test/testTypes/testQueen.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/code/types/Bishop.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/code/types/Knight.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/img/whiteInvincible.png</path>
+<path
    action="A"
-   kind="file">/gvndprs2/Assignment1.2/src/test/testTypes/testQueen.java</path>
+   kind="dir">/gvndprs2/Assignment1.2/src/test/testTypes</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/code/types/Piece.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testCheckMate.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/code/types/King.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.2/src/test/testTypes/testKnight.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/test/testTypes/testBishop.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/test/testTurn.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/code/PairType.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/code/Square.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.2/src/test/testTypes/testKing.java</path>
 </paths>
 <msg>updating 1.2</msg>
 </logentry>
@@ -1884,8 +2851,8 @@
 <date>2016-02-15T06:28:36.114863Z</date>
 <paths>
 <path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.2</path>
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.2</path>
 </paths>
 <msg>Assignment 1.2 folder added</msg>
 </logentry>
@@ -1907,8 +2874,8 @@
 <date>2016-02-12T19:11:58.787418Z</date>
 <paths>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testKing.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testKing.java</path>
 </paths>
 <msg> update</msg>
 </logentry>
@@ -1918,8 +2885,8 @@
 <date>2016-02-12T17:05:46.868947Z</date>
 <paths>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.1/Test Plan for CS 242 Chess Game.pdf</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.1/Test Plan for CS 242 Chess Game.pdf</path>
 </paths>
 <msg>add testplan</msg>
 </logentry>
@@ -1930,40 +2897,13 @@
 <paths>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testQueen.java</path>
+   kind="file">/gvndprs2/Assignment1.1/src/test/testCheckBlack.java</path>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/code/Board.java</path>
+   action="M">/gvndprs2/Assignment1.1/src/code/GUI/BoardGUI.java</path>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/test/testCheckMate.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/code/GUI/BoardUnit.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testInvinsible.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/test/testTurn.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testBishop.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testKnight.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testPawn.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/test/testCheckBlack.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/code/GUI/BoardGUI.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testKing.java</path>
+   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testKing.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testDiver.java</path>
@@ -1973,6 +2913,33 @@
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testRook.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testQueen.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/test/testCheckMate.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/code/GUI/BoardUnit.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testInvinsible.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/test/testTurn.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testBishop.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testKnight.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testPawn.java</path>
 </paths>
 <msg>updated mode</msg>
 </logentry>
@@ -1993,68 +2960,20 @@
 <date>2016-02-12T07:34:19.797760Z</date>
 <paths>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testQueen.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/code/types/Invincible.java</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.1/src/img/whiteInvincible.png</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/code/MapRet.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/code/types/Piece.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testCheckMate.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/code/Game.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/code/types/Pawn.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testInvinsible.java</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.1/src/img/blackDiver.png</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.1/src/code/GUI/BoardUnit.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/code/types/Diver.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testPawn.java</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.1/src/img/blackQueen.png</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.1/src/img/whiteDiver.png</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/code/GUI/BoardGUI.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/code/CoordRet.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/code/types/Queen.java</path>
-<path
    kind="dir"
    action="A">/gvndprs2/Assignment1.1/src/img</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.1/src/img/whiteQueen.png</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testRook.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.1/src/img/blackKnight.png</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/test/testCheckWhite.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/code/types/Invincible.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.1/src/img/blackKnight.png</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.1/src/img/blackBishop.png</path>
@@ -2063,19 +2982,85 @@
    action="M">/gvndprs2/Assignment1.1/src/code/Board.java</path>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/code/types/Knight.java</path>
+   kind="file">/gvndprs2/Assignment1.1/src/code/MapRet.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.1/src/img/whiteKnight.png</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.1/src/img/whiteBishop.png</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.1/src/img/blackKing.png</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.1/src/img/whiteKing.png</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.1/src/img/blackPawn.png</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/code/Game.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/code/types/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testInvinsible.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.1/src/img/blackDiver.png</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.1/src/img/whitePawn.png</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.1/src/img/blackRook.png</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testPawn.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.1/src/img/blackQueen.png</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.1/src/img/whiteDiver.png</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/code/GUI/BoardGUI.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.1/src/img/whiteRook.png</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/code/CoordRet.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testDiver.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.1/src/img/whiteQueen.png</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.1/src/img/blackInvincible.png</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testQueen.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/code/types/Knight.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.1/src/code/types/Bishop.java</path>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment1.1/src/img/whiteKnight.png</path>
+   action="A">/gvndprs2/Assignment1.1/src/img/whiteInvincible.png</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.1/src/img/whiteBishop.png</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/code/types/Piece.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.1/src/img/blackKing.png</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/test/testCheckMate.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.1/src/code/types/King.java</path>
@@ -2089,9 +3074,6 @@
    action="M"
    kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testKnight.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.1/src/img/whiteKing.png</path>
-<path
    kind="file"
    action="M">/gvndprs2/Assignment1.1/src/code/Square.java</path>
 <path
@@ -2099,31 +3081,16 @@
    action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testKing.java</path>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment1.1/src/img/blackPawn.png</path>
+   action="A">/gvndprs2/Assignment1.1/src/code/GUI/BoardUnit.java</path>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment1.1/src/img/whitePawn.png</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.1/src/img/blackRook.png</path>
+   action="M">/gvndprs2/Assignment1.1/src/code/types/Diver.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.1/src/code/types/Rook.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.1/src/img/whiteRook.png</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testDiver.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testRook.java</path>
-<path
    kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/test/testCheckWhite.java</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.1/src/img/blackInvincible.png</path>
+   action="M">/gvndprs2/Assignment1.1/src/code/types/Queen.java</path>
 </paths>
 <msg>updating comment blocks</msg>
 </logentry>
@@ -2134,19 +3101,7 @@
 <paths>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/code/types/Bishop.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/code/Game.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/code/types/Diver.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testBishop.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/code/GUI/BoardGUI.java</path>
+   action="M">/gvndprs2/Assignment1.1/src/code/GUI/BoardGUI.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.1/src/code/Square.java</path>
@@ -2157,8 +3112,20 @@
    action="A"
    kind="file">/gvndprs2/Assignment1.1/src/code/types/Invincible.java</path>
 <path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/code/types/Bishop.java</path>
+<path
    kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/code/Board.java</path>
+   action="M">/gvndprs2/Assignment1.1/src/code/Game.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/code/types/Diver.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testBishop.java</path>
 </paths>
 <msg>update refactorign #1</msg>
 </logentry>
@@ -2169,22 +3136,19 @@
 <paths>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testCheckMate.java</path>
+   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testKnight.java</path>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testKnight.java</path>
+   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testBishop.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testBishop.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/test/testTurn.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTurn.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/code/Square.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/code/Square.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testKing.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testKing.java</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.1/src/code/types/Invinsible.java</path>
@@ -2192,17 +3156,17 @@
    kind="file"
    action="M">/gvndprs2/Assignment1.1/src/code/Game.java</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.1/src/test/testTypes/testInvinsible.java</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testInvinsible.java</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment1.1/src/code/types/Diver.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testPawn.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testPawn.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/test/testCheckBlack.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/test/testCheckBlack.java</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testDiver.java</path>
@@ -2210,14 +3174,17 @@
    action="M"
    kind="file">/gvndprs2/Assignment1.1/src/test/testCheckWhite.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testRook.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testRook.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testQueen.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/test/testTypes/testQueen.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.1/src/code/Board.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/code/Board.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.1/src/test/testCheckMate.java</path>
 </paths>
 <msg>update</msg>
 </logentry>
@@ -2227,11 +3194,14 @@
 <date>2016-02-10T19:48:20.742322Z</date>
 <paths>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testPawn.java</path>
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.1/src/code/GUI</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testCheckBlack.java</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.1/src/test/testTypes/testPawn.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.1/src/test/testCheckBlack.java</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.1/src/code/GUI/BoardGUI.java</path>
@@ -2239,17 +3209,17 @@
    kind="file"
    action="A">/gvndprs2/Assignment1.1/src/test/testCheckWhite.java</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.1/src/test/testTypes/testRook.java</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testRook.java</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testQueen.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.1/Assignment1.1.iml</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/Assignment1.1.iml</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.1/src/code/Board.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.1/src/code/Board.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.1/src/code/types/Bishop.java</path>
@@ -2257,26 +3227,23 @@
    action="A"
    kind="file">/gvndprs2/Assignment1.1/src/test/testCheckMate.java</path>
 <path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.1/src/test/testTypes</path>
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.1/src/test/testTypes</path>
 <path
-   action="D"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testBoard.java</path>
+   kind="file"
+   action="D">/gvndprs2/Assignment1.1/src/test/testBoard.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTurn.java</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.1/src/test/testTurn.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.1/src/test/testTypes/testBishop.java</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.1/src/test/testTypes/testBishop.java</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.1/src/test/testTypes/testKnight.java</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.1/src/test/testTypes/testKing.java</path>
-<path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.1/src/code/GUI</path>
 </paths>
 <msg>updating test structure</msg>
 </logentry>
@@ -2287,28 +3254,40 @@
 <paths>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment1.1/src/code/types/Rook.java</path>
+   action="A">/gvndprs2/Assignment1.1/src/code/Square.java</path>
 <path
    kind="dir"
-   action="A">/gvndprs2/Assignment1.1</path>
+   action="A">/gvndprs2/Assignment1.1/src</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.1/src/code/Game.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.1/src/code/types/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.1/src/code/types/Rook.java</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.1</path>
 <path
    action="A"
    kind="dir">/gvndprs2/Assignment1.1/src/code</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.1/src/code/CoordRet.java</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.1/src/code/CoordRet.java</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.1/src/code/types/Queen.java</path>
 <path
-   action="A"
-   kind="dir">/gvndprs2/Assignment1.1/src/code/types</path>
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.1/src/code/types</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.1/src/test</path>
 <path
    action="A"
-   kind="dir">/gvndprs2/Assignment1.1/src/test</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.1/Assignment1.1.iml</path>
+   kind="file">/gvndprs2/Assignment1.1/Assignment1.1.iml</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment1.1/src/code/Board.java</path>
@@ -2325,26 +3304,14 @@
    kind="file"
    action="A">/gvndprs2/Assignment1.1/src/code/types/Piece.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.1/src/code/types/King.java</path>
-<path
    kind="file"
-   action="A">/gvndprs2/Assignment1.1/src/test/testBoard.java</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.1/src/code/PairType.java</path>
+   action="A">/gvndprs2/Assignment1.1/src/code/types/King.java</path>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment1.1/src/code/Square.java</path>
+   kind="file">/gvndprs2/Assignment1.1/src/test/testBoard.java</path>
 <path
    action="A"
-   kind="dir">/gvndprs2/Assignment1.1/src</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.1/src/code/Game.java</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.1/src/code/types/Pawn.java</path>
+   kind="file">/gvndprs2/Assignment1.1/src/code/PairType.java</path>
 </paths>
 <msg>created new directory 1.1 for assignment 1.1</msg>
 </logentry>
@@ -2368,8 +3335,8 @@
    kind="file"
    action="D">/gvndprs2/Assignment1.0/src/code/Queen.java</path>
 <path
-   action="D"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Bishop.java</path>
+   kind="file"
+   action="D">/gvndprs2/Assignment1.0/src/code/Bishop.java</path>
 <path
    action="D"
    kind="file">/gvndprs2/Assignment1.0/src/code/Knight.java</path>
@@ -2394,8 +3361,8 @@
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 </paths>
 <msg>dk why this saying there is a change...</msg>
 </logentry>
@@ -2405,11 +3372,11 @@
 <date>2016-02-07T05:00:56.578991Z</date>
 <paths>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 </paths>
 <msg>stale</msg>
 </logentry>
@@ -2422,8 +3389,8 @@
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 </paths>
 <msg>stale</msg>
 </logentry>
@@ -2433,17 +3400,17 @@
 <date>2016-02-05T20:40:54.931077Z</date>
 <paths>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
 </paths>
 <msg>updated with TA feedback + TODO list</msg>
 </logentry>
@@ -2454,13 +3421,13 @@
 <paths>
 <path
    action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
    kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 </paths>
 <msg>updated comments and cehckmate</msg>
 </logentry>
@@ -2470,20 +3437,20 @@
 <date>2016-02-05T19:14:13.841839Z</date>
 <paths>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.0/.idea/inspectionProfiles/profiles_settings.xml</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/.idea/inspectionProfiles/Project_Default.xml</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.0/.idea/inspectionProfiles/Project_Default.xml</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
    kind="dir"
    action="A">/gvndprs2/Assignment1.0/.idea/inspectionProfiles</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/.idea/inspectionProfiles/profiles_settings.xml</path>
 </paths>
 <msg>updated comments and cehckmate</msg>
 </logentry>
@@ -2493,11 +3460,11 @@
 <date>2016-02-05T19:05:14.979621Z</date>
 <paths>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
 </paths>
 <msg>updated comments and cehckmate</msg>
 </logentry>
@@ -2507,11 +3474,11 @@
 <date>2016-02-05T18:48:32.926643Z</date>
 <paths>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
@@ -2527,17 +3494,17 @@
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/MapRet.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/MapRet.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/.idea/misc.xml</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/misc.xml</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
@@ -2548,11 +3515,11 @@
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
@@ -2580,14 +3547,14 @@
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
 </paths>
 <msg>cleaned up code by formatting it</msg>
 </logentry>
@@ -2597,26 +3564,26 @@
 <date>2016-02-03T22:58:51.674083Z</date>
 <paths>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/MapRet.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/MapRet.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
@@ -2630,11 +3597,11 @@
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Square.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Square.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/CoordRet.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/CoordRet.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
@@ -2647,8 +3614,8 @@
 <date>2016-02-03T22:39:26.819371Z</date>
 <paths>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
@@ -2656,8 +3623,8 @@
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
@@ -2692,6 +3659,15 @@
 <paths>
 <path
    kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+<path
+   kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
 <path
    kind="file"
@@ -2706,20 +3682,11 @@
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/CoordRet.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/CoordRet.java</path>
 <path
    action="D"
    kind="file">/gvndprs2/Assignment1.0/src/test/testQueen.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
 </paths>
 <msg>wrote test cases</msg>
 </logentry>
@@ -2730,31 +3697,31 @@
 <paths>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/src/test/testPawn.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/Square.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.0/src/test/testQueen.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
-<path
    kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.0/src/test/testPawn.java</path>
+   action="A">/gvndprs2/Assignment1.0/src/test/testQueen.java</path>
 </paths>
 <msg>swapped positions for queen and king and fixed check</msg>
 </logentry>
@@ -2765,7 +3732,28 @@
 <paths>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/MapRet.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
@@ -2776,20 +3764,25 @@
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/Square.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Square.java</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.0/src/code/CoordRet.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/CoordRet.java</path>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+</paths>
+<msg>update to checkmate. Still need to refactor code, and clean up, and comment + WRITE TEST CASES</msg>
+</logentry>
+<logentry
+   revision="2780">
+<author>gvndprs2</author>
+<date>2016-01-31T04:09:58.608253Z</date>
+<paths>
 <path
    kind="file"
-   action="A">/gvndprs2/Assignment1.0/src/code/MapRet.java</path>
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
@@ -2805,38 +3798,12 @@
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
-</paths>
-<msg>update to checkmate. Still need to refactor code, and clean up, and comment + WRITE TEST CASES</msg>
-</logentry>
-<logentry
-   revision="2780">
-<author>gvndprs2</author>
-<date>2016-01-31T04:09:58.608253Z</date>
-<paths>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
@@ -2853,28 +3820,28 @@
 <paths>
 <path
    action="M"
-   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
 </paths>
 <msg>Rook and Bishop might have bugs. Redo Queen. test King. Need to write testcases</msg>
 </logentry>
@@ -2890,8 +3857,8 @@
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
@@ -2904,23 +3871,23 @@
 <date>2016-01-30T05:06:01.823648Z</date>
 <paths>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 </paths>
 <msg>refactoring Rook</msg>
 </logentry>
@@ -2930,11 +3897,11 @@
 <date>2016-01-30T03:44:48.408318Z</date>
 <paths>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
 </paths>
 <msg>working on Pawn halfway through Refactoring code</msg>
 </logentry>
@@ -2944,11 +3911,11 @@
 <date>2016-01-30T03:35:35.408871Z</date>
 <paths>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
 </paths>
 <msg>working on Pawn before Refactoring code</msg>
 </logentry>
@@ -2959,31 +3926,66 @@
 <paths>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Square.java</path>
+   action="M">/gvndprs2/Assignment1.0/Assignment1.0.iml</path>
 <path
    kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/Assignment1.0.iml</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/PairType.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Square.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+</paths>
+<msg>working on Pawn</msg>
+</logentry>
+<logentry
+   revision="2031">
+<author>gvndprs2</author>
+<date>2016-01-28T22:38:09.129912Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
@@ -2994,52 +3996,17 @@
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.0/src/code/PairType.java</path>
-</paths>
-<msg>working on Pawn</msg>
-</logentry>
-<logentry
-   revision="2031">
-<author>gvndprs2</author>
-<date>2016-01-28T22:38:09.129912Z</date>
-<paths>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
-<path
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/Square.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
-<path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
 </paths>
 <msg>update</msg>
 </logentry>
@@ -3049,26 +4016,26 @@
 <date>2016-01-28T22:21:50.510058Z</date>
 <paths>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/.idea/misc.xml</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/misc.xml</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
 <path
    kind="file"
    action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.0/src/code/Square.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
 </paths>
 <msg>update</msg>
 </logentry>
@@ -3089,17 +4056,26 @@
 <date>2016-01-28T05:26:19.098943Z</date>
 <paths>
 <path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+<path
    action="D"
    kind="file">/gvndprs2/Assignment1.0/src/code/Piece.java</path>
 <path
    action="M"
    kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
 <path
    kind="file"
    copyfrom-path="/gvndprs2/Assignment1.0/src/code/Piece.java"
@@ -3109,17 +4085,8 @@
    kind="file"
    action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
-<path
    kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
 </paths>
 <msg>compiled main function BASIC</msg>
 </logentry>
@@ -3130,34 +4097,34 @@
 <paths>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
-<path
-   action="A"
    kind="file">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
 <path
    kind="dir"
    action="A">/gvndprs2/Assignment1.0/src/code/types</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Piece.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Piece.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
 <path
-   kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
 </paths>
 <msg>added package paths</msg>
 </logentry>
@@ -3170,14 +4137,14 @@
    action="M"
    kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Piece.java</path>
+<path
    kind="file"
-   action="M">/gvndprs2/Assignment1.0/src/code/Piece.java</path>
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
-<path
-   action="M"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
 </paths>
 <msg>push update. Defined class definitions</msg>
 </logentry>
@@ -3187,77 +4154,77 @@
 <date>2016-01-28T05:06:52.283439Z</date>
 <paths>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.0/.idea/uiDesigner.xml</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/.idea/uiDesigner.xml</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.0/.idea/.name</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/.idea/.name</path>
 <path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.0/.idea</path>
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.0/.idea</path>
 <path
    action="A"
    kind="file">/gvndprs2/Assignment1.0/src/code/Pawn.java</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.0/.idea/modules.xml</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/.idea/modules.xml</path>
 <path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.0/src</path>
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.0/src</path>
 <path
    action="A"
    kind="dir">/gvndprs2/Assignment1.0/.idea/copyright</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.0/.idea/encodings.xml</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/.idea/encodings.xml</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.0/.idea/compiler.xml</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/.idea/compiler.xml</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.0/src/code/Game.java</path>
 <path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/.idea/copyright/profiles_settings.xml</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/src/code/Rook.java</path>
+<path
    action="A"
-   kind="file">/gvndprs2/Assignment1.0/.idea/copyright/profiles_settings.xml</path>
+   kind="file">/gvndprs2/Assignment1.0/src/code/Queen.java</path>
 <path
    action="A"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Rook.java</path>
+   kind="dir">/gvndprs2/Assignment1.0</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.0/src/code/Queen.java</path>
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.0/src/code</path>
 <path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.0</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Knight.java</path>
 <path
-   kind="dir"
-   action="A">/gvndprs2/Assignment1.0/src/code</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.0/src/code/Knight.java</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/Assignment1.0/src/code/Bishop.java</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Bishop.java</path>
 <path
    action="A"
    kind="dir">/gvndprs2/Assignment1.0/src/test</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.0/src/code/Piece.java</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/src/code/Piece.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.0/Assignment1.0.iml</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/Assignment1.0.iml</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.0/src/code/Board.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.0/src/code/King.java</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/src/code/King.java</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment1.0/.idea/vcs.xml</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/.idea/vcs.xml</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment1.0/.idea/misc.xml</path>
@@ -3270,14 +4237,14 @@
 <date>2016-01-28T04:43:02.078117Z</date>
 <paths>
 <path
-   kind="file"
-   action="A">/gvndprs2/Assignment0/changes.txt</path>
+   action="A"
+   kind="file">/gvndprs2/Assignment0/changes.txt</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment0/topology.txt</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment0/Makefile</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment0/Makefile</path>
 <path
    kind="file"
    action="A">/gvndprs2/Assignment0/link.cpp</path>
@@ -3285,8 +4252,8 @@
    kind="file"
    action="A">/gvndprs2/Assignment0/output.txt</path>
 <path
-   action="A"
-   kind="file">/gvndprs2/Assignment0/message.txt</path>
+   kind="file"
+   action="A">/gvndprs2/Assignment0/message.txt</path>
 </paths>
 <msg>adding 400 lines of code thign</msg>
 </logentry>
@@ -3296,13 +4263,13 @@
 <date>2016-01-28T04:37:38.982656Z</date>
 <paths>
 <path
-   kind="dir"
    copyfrom-path="/gvndprs2/HW0"
    copyfrom-rev="1308"
-   action="A">/gvndprs2/Assignment0</path>
+   action="A"
+   kind="dir">/gvndprs2/Assignment0</path>
 <path
-   action="D"
-   kind="dir">/gvndprs2/HW0</path>
+   kind="dir"
+   action="D">/gvndprs2/HW0</path>
 </paths>
 <msg>changed name</msg>
 </logentry>
@@ -3326,8 +4293,8 @@
 <date>2016-01-25T20:44:02.916654Z</date>
 <paths>
 <path
-   action="M"
-   kind="dir">/gvndprs2/shopping</path>
+   kind="dir"
+   action="M">/gvndprs2/shopping</path>
 </paths>
 <msg>removed ignore rule</msg>
 </logentry>
@@ -3337,8 +4304,8 @@
 <date>2016-01-25T20:40:54.258158Z</date>
 <paths>
 <path
-   kind="dir"
-   action="M">/gvndprs2/shopping</path>
+   action="M"
+   kind="dir">/gvndprs2/shopping</path>
 </paths>
 <msg>Ignored the list3.txt from all future commits</msg>
 </logentry>
@@ -3348,13 +4315,13 @@
 <date>2016-01-25T20:36:30.393186Z</date>
 <paths>
 <path
+   action="D"
+   kind="dir">/gvndprs2/grocery</path>
+<path
    action="A"
    kind="dir"
    copyfrom-path="/gvndprs2/grocery"
    copyfrom-rev="281">/gvndprs2/shopping</path>
-<path
-   action="D"
-   kind="dir">/gvndprs2/grocery</path>
 </paths>
 <msg>Moved grocery to shopping for clarity</msg>
 </logentry>
@@ -3397,8 +4364,8 @@
 <date>2016-01-25T20:28:06.729409Z</date>
 <paths>
 <path
-   action="M"
-   kind="file">/gvndprs2/grocery/list2.txt</path>
+   kind="file"
+   action="M">/gvndprs2/grocery/list2.txt</path>
 </paths>
 <msg>Put emphasis on carrot</msg>
 </logentry>
@@ -3419,8 +4386,8 @@
 <date>2016-01-25T20:27:03.068975Z</date>
 <paths>
 <path
-   action="M"
-   kind="file">/gvndprs2/grocery/list2.txt</path>
+   kind="file"
+   action="M">/gvndprs2/grocery/list2.txt</path>
 </paths>
 <msg>Added more important vegetable</msg>
 </logentry>
@@ -3474,8 +4441,8 @@
 <date>2016-01-25T20:20:26.787146Z</date>
 <paths>
 <path
-   action="A"
-   kind="file">/gvndprs2/grocery/list1.txt</path>
+   kind="file"
+   action="A">/gvndprs2/grocery/list1.txt</path>
 <path
    kind="file"
    action="A">/gvndprs2/grocery/list2.txt</path>
@@ -3491,74 +4458,47 @@
 <date>2016-01-25T19:54:49.303459Z</date>
 <paths>
 <path
-   action="A"
-   kind="file">/gvndprs2/HW0/src/lanSimulation/tests/LANTests.java</path>
-<path
    kind="dir"
-   action="A">/gvndprs2/HW0/bin/lanSimulation/internals</path>
+   action="A">/gvndprs2/HW0/src/lanSimulation/internals</path>
 <path
    action="A"
-   kind="dir">/gvndprs2/HW0/src</path>
+   kind="dir">/gvndprs2/HW0/src/lanSimulation</path>
 <path
    action="A"
-   kind="dir">/gvndprs2/HW0/bin/lanSimulation</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/HW0/useOutput.txt</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/HW0/doc/LANSimulationDocument.pdf</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/HW0/doc/README</path>
-<path
-   kind="dir"
-   action="A">/gvndprs2/HW0/doc</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/HW0/javadoc.xml</path>
+   kind="file">/gvndprs2/HW0/bin/lanSimulation/LANSimulation.class</path>
 <path
    action="A"
-   kind="dir">/gvndprs2/HW0/bin</path>
-<path
-   action="A"
-   kind="dir">/gvndprs2/HW0/src/lanSimulation/tests</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/HW0/COPYING</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/HW0/doc/RefactoringAssignment.pdf</path>
-<path
-   action="A"
-   kind="file">/gvndprs2/HW0/src/lanSimulation/internals/Node.java</path>
+   kind="dir">/gvndprs2/HW0/.settings</path>
 <path
    action="A"
    kind="file">/gvndprs2/HW0/bin/lanSimulation/internals/Node.class</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/HW0/src/lanSimulation/Network.java</path>
+   action="A"
+   kind="file">/gvndprs2/HW0/src/lanSimulation/Network.java</path>
 <path
    kind="file"
    action="A">/gvndprs2/HW0/.project</path>
 <path
    kind="file"
-   action="A">/gvndprs2/HW0/bin/lanSimulation/Network.class</path>
+   action="A">/gvndprs2/HW0/src/lanSimulation/tests/LANTests.java</path>
 <path
-   action="A"
-   kind="dir">/gvndprs2/HW0/bin/lanSimulation/tests</path>
+   kind="dir"
+   action="A">/gvndprs2/HW0/bin/lanSimulation/internals</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/HW0/src</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/HW0/bin/lanSimulation</path>
 <path
    kind="file"
    action="A">/gvndprs2/HW0/bin/lanSimulation/tests/LANTests.class</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/HW0/src/lanSimulation/internals/Packet.java</path>
+   action="A"
+   kind="file">/gvndprs2/HW0/useOutput.txt</path>
 <path
    action="A"
-   kind="dir">/gvndprs2/HW0</path>
+   kind="file">/gvndprs2/HW0/doc/LANSimulationDocument.pdf</path>
 <path
    action="A"
    kind="file">/gvndprs2/HW0/.classpath</path>
@@ -3570,25 +4510,52 @@
    kind="file">/gvndprs2/HW0/bin/lanSimulation/internals/Packet.class</path>
 <path
    action="A"
-   kind="dir">/gvndprs2/HW0/src/lanSimulation/internals</path>
-<path
-   action="A"
    kind="file">/gvndprs2/HW0/src/lanSimulation/LANSimulation.java</path>
 <path
    kind="dir"
-   action="A">/gvndprs2/HW0/src/lanSimulation</path>
+   action="A">/gvndprs2/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/javadoc.xml</path>
 <path
    kind="file"
    action="A">/gvndprs2/HW0/doc/toDoList</path>
 <path
-   kind="file"
-   action="A">/gvndprs2/HW0/bin/lanSimulation/LANSimulation.class</path>
-<path
-   kind="file"
-   action="A">/gvndprs2/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+   kind="dir"
+   action="A">/gvndprs2/HW0/bin</path>
 <path
    kind="dir"
-   action="A">/gvndprs2/HW0/.settings</path>
+   action="A">/gvndprs2/HW0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/COPYING</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/doc/RefactoringAssignment.pdf</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/HW0/bin/lanSimulation/Network.class</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/HW0/bin/lanSimulation/tests</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/HW0</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/doc/README</path>
 </paths>
 <msg>hw0 bleh</msg>
 </logentry>
