@@ -1,6 +1,4 @@
-import pprint
 import sys
-from pandas import json
 
 from svn.log.log import Log
 
