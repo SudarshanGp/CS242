@@ -39,20 +39,21 @@ function menu(defaultData){
             multiSelect: $('#chk-select-multi').is(':checked'),
             onNodeSelected: function(event, node) {
                 //var data_pass = {name: node.url}
-                $.ajax({
-                    url: '/subversion',
-                    data: JSON.stringify({url: node.url}),
-                    type: 'POST',
-                    contentType: 'application/json;charset=UTF-8',
-                    success: function(response) {
-                        console.log(response);
-                    },
-                    dataType: "json",
-                    error: function(error) {
-                        console.log(error);
-                    }
-                });
+                // $.ajax({
+                //     url: '/subversion',
+                //     data: JSON.stringify({url: node.url}),
+                //     type: 'POST',
+                //     contentType: 'application/json;charset=UTF-8',
+                //     success: function(response) {
+                //         console.log(response);
+                //     },
+                //     dataType: "json",
+                //     error: function(error) {
+                //         console.log(error);
+                //     }
+                // });
                 var iframe = $('#code');
+                console.log(node.url);
                 iframe.attr('src', node.url);
                 iframe.attr('height', $(window).height()+'px')
                 console.log(node);

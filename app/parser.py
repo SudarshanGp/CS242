@@ -12,8 +12,8 @@ from dateutil import parser
 
 
 def init_files():
-    # cmd = "svn list --xml --recursive https://subversion.ews.illinois.edu/svn/sp16-cs242/gvndprs2 > app/static/res/svn_list.xml;" \
-    #       "svn log --verbose --xml https://subversion.ews.illinois.edu/svn/sp16-cs242/gvndprs2 > app/static/res/svn_log.xml;"
+    # cmd = "svn list --xml --recursive https://subversion.ews.illinois.edu/svn/sp16-cs242/gvndprs2 > static/res/svn_list.xml;" \
+    #       "svn log --verbose --xml https://subversion.ews.illinois.edu/svn/sp16-cs242/gvndprs2 > static/res/svn_log.xml;"
     # p = subprocess.Popen(cmd, shell=True)
     # p.wait()  # block util the cmd execute finish
     svn_list = soup_file('app/static/res/svn_list.xml')
@@ -121,9 +121,6 @@ def parse_list(file):
                     match = next((d for d in temp['nodes'] if d['text'] == val), None)
                     print(match['text'])
                     temp = match
-
-    with open('data.txt', 'w') as outfile:
-        json.dump(hierarchy, outfile)
     return hierarchy
 
 
