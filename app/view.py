@@ -61,7 +61,7 @@ def exception_handler(error):
 
 
 if __name__ == '__main__':
-    parsed = Parser('app/static/res/svn_list.xml', 'app/static/res/svn_log.xml', True)
+    parsed = Parser('app/static/res/svn_list.xml', 'app/static/res/svn_log.xml', False)
     svn_log = parsed.svn_log
     svn_list = parsed.svn_list
     app.run()
