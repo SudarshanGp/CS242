@@ -1,0 +1,1258 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<log>
+<logentry
+   revision="68">
+<author>root</author>
+<date>2016-01-21T17:21:38.751203Z</date>
+<paths>
+<path
+   kind="dir"
+   action="A">/gvndprs2</path>
+</paths>
+<msg>created directory gvndprs2</msg>
+</logentry>
+<logentry
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/HW0/bin/lanSimulation/internals/Node.class</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/HW0/src/lanSimulation/Network.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/HW0/.project</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/bin/lanSimulation/Network.class</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/HW0/bin/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/bin/lanSimulation/tests/LANTests.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/src/lanSimulation/internals/Packet.java</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/HW0</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/HW0/.classpath</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/HW0/expectedOutput.txt</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/HW0/bin/lanSimulation/internals/Packet.class</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/HW0/src/lanSimulation/internals</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/src/lanSimulation/LANSimulation.java</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/HW0/src/lanSimulation</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/doc/toDoList</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/bin/lanSimulation/LANSimulation.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/.settings/org.eclipse.jdt.core.prefs</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/HW0/.settings</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/HW0/src/lanSimulation/tests/LANTests.java</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/HW0/bin/lanSimulation/internals</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/HW0/src</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/HW0/bin/lanSimulation</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/HW0/useOutput.txt</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/HW0/doc/LANSimulationDocument.pdf</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/HW0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/doc/README</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/HW0/doc</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/javadoc.xml</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/HW0/bin</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/HW0/src/lanSimulation/tests</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/HW0/COPYING</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/HW0/doc/RefactoringAssignment.pdf</path>
+</paths>
+<msg>hw0 bleh</msg>
+</logentry>
+<logentry
+   revision="252">
+<author>gvndprs2</author>
+<date>2016-01-25T20:20:26.787146Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/gvndprs2/grocery/list1.txt</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/grocery/list2.txt</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/grocery</path>
+</paths>
+<msg>importing grocery project</msg>
+</logentry>
+<logentry
+   revision="254">
+<author>gvndprs2</author>
+<date>2016-01-25T20:22:30.873359Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/grocery/list1.txt</path>
+</paths>
+<msg>Need to buy more fruit </msg>
+</logentry>
+<logentry
+   revision="256">
+<author>gvndprs2</author>
+<date>2016-01-25T20:23:39.954382Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="257">
+<author>gvndprs2</author>
+<date>2016-01-25T20:24:25.773883Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/grocery/list2.txt</path>
+</paths>
+<msg>bleh</msg>
+</logentry>
+<logentry
+   revision="260">
+<author>gvndprs2</author>
+<date>2016-01-25T20:25:21.728789Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/grocery/list2.txt</path>
+</paths>
+<msg>Adding more vegetables</msg>
+</logentry>
+<logentry
+   revision="264">
+<author>gvndprs2</author>
+<date>2016-01-25T20:27:03.068975Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/grocery/list2.txt</path>
+</paths>
+<msg>Added more important vegetable</msg>
+</logentry>
+<logentry
+   revision="265">
+<author>gvndprs2</author>
+<date>2016-01-25T20:27:34.439034Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/grocery/list2.txt</path>
+</paths>
+<msg>Added less important vegetable</msg>
+</logentry>
+<logentry
+   revision="267">
+<author>gvndprs2</author>
+<date>2016-01-25T20:28:06.729409Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/grocery/list2.txt</path>
+</paths>
+<msg>Put emphasis on carrot</msg>
+</logentry>
+<logentry
+   revision="269">
+<author>gvndprs2</author>
+<date>2016-01-25T20:29:45.000613Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/grocery/list2.txt</path>
+</paths>
+<msg>Emphasize importance of carrot</msg>
+</logentry>
+<logentry
+   revision="273">
+<author>gvndprs2</author>
+<date>2016-01-25T20:30:59.740218Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/gvndprs2/list3.txt</path>
+</paths>
+<msg>Added list of meats</msg>
+</logentry>
+<logentry
+   revision="275">
+<author>gvndprs2</author>
+<date>2016-01-25T20:31:17.363197Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/gvndprs2/list3.txt</path>
+</paths>
+<msg>Discovered that I want to be a vegetarian</msg>
+</logentry>
+<logentry
+   revision="282">
+<author>gvndprs2</author>
+<date>2016-01-25T20:36:30.393186Z</date>
+<paths>
+<path
+   kind="dir"
+   copyfrom-path="/gvndprs2/grocery"
+   copyfrom-rev="281"
+   action="A">/gvndprs2/shopping</path>
+<path
+   kind="dir"
+   action="D">/gvndprs2/grocery</path>
+</paths>
+<msg>Moved grocery to shopping for clarity</msg>
+</logentry>
+<logentry
+   revision="285">
+<author>gvndprs2</author>
+<date>2016-01-25T20:40:54.258158Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/gvndprs2/shopping</path>
+</paths>
+<msg>Ignored the list3.txt from all future commits</msg>
+</logentry>
+<logentry
+   revision="289">
+<author>gvndprs2</author>
+<date>2016-01-25T20:44:02.916654Z</date>
+<paths>
+<path
+   kind="dir"
+   action="M">/gvndprs2/shopping</path>
+</paths>
+<msg>removed ignore rule</msg>
+</logentry>
+<logentry
+   revision="300">
+<author>gvndprs2</author>
+<date>2016-01-25T21:16:54.975532Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/HW0/src/lanSimulation/internals/Node.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/HW0/src/lanSimulation/Network.java</path>
+</paths>
+<msg>updated java code</msg>
+</logentry>
+<logentry
+   revision="1309">
+<author>gvndprs2</author>
+<date>2016-01-28T04:37:38.982656Z</date>
+<paths>
+<path
+   kind="dir"
+   action="D">/gvndprs2/HW0</path>
+<path
+   action="A"
+   kind="dir"
+   copyfrom-path="/gvndprs2/HW0"
+   copyfrom-rev="1308">/gvndprs2/Assignment0</path>
+</paths>
+<msg>changed name</msg>
+</logentry>
+<logentry
+   revision="1318">
+<author>gvndprs2</author>
+<date>2016-01-28T04:43:02.078117Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment0/topology.txt</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment0/Makefile</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment0/link.cpp</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment0/output.txt</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment0/message.txt</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment0/changes.txt</path>
+</paths>
+<msg>adding 400 lines of code thign</msg>
+</logentry>
+<logentry
+   revision="1351">
+<author>gvndprs2</author>
+<date>2016-01-28T05:06:52.283439Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/.idea/vcs.xml</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/.idea/uiDesigner.xml</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/.idea/.name</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.0/.idea</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/src/code/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/.idea/modules.xml</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.0/src</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.0/.idea/copyright</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/.idea/encodings.xml</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/.idea/compiler.xml</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/.idea/copyright/profiles_settings.xml</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Rook.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/src/code/Queen.java</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.0</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.0/src/code</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/src/code/Knight.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Bishop.java</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.0/src/test</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Piece.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/Assignment1.0.iml</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/King.java</path>
+</paths>
+<msg>added some basic classes</msg>
+</logentry>
+<logentry
+   revision="1355">
+<author>gvndprs2</author>
+<date>2016-01-28T05:08:41.524130Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Piece.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+</paths>
+<msg>push update. Defined class definitions</msg>
+</logentry>
+<logentry
+   revision="1374">
+<author>gvndprs2</author>
+<date>2016-01-28T05:18:08.497237Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+<path
+   action="A"
+   kind="dir">/gvndprs2/Assignment1.0/src/code/types</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Piece.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+</paths>
+<msg>added package paths</msg>
+</logentry>
+<logentry
+   revision="1388">
+<author>gvndprs2</author>
+<date>2016-01-28T05:26:19.098943Z</date>
+<paths>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment1.0/src/code/Piece.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+<path
+   action="A"
+   kind="file"
+   copyfrom-path="/gvndprs2/Assignment1.0/src/code/Piece.java"
+   copyfrom-rev="1374">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+</paths>
+<msg>compiled main function BASIC</msg>
+</logentry>
+<logentry
+   revision="1392">
+<author>gvndprs2</author>
+<date>2016-01-28T05:28:23.785201Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+</paths>
+<msg>compiled main function BASIC</msg>
+</logentry>
+<logentry
+   revision="2025">
+<author>gvndprs2</author>
+<date>2016-01-28T22:21:50.510058Z</date>
+<paths>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/src/code/Square.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/misc.xml</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+</paths>
+<msg>update</msg>
+</logentry>
+<logentry
+   revision="2031">
+<author>gvndprs2</author>
+<date>2016-01-28T22:38:09.129912Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Square.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+</paths>
+<msg>update</msg>
+</logentry>
+<logentry
+   revision="2682">
+<author>gvndprs2</author>
+<date>2016-01-30T03:34:51.637434Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/Assignment1.0.iml</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/src/code/PairType.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Square.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+</paths>
+<msg>working on Pawn</msg>
+</logentry>
+<logentry
+   revision="2683">
+<author>gvndprs2</author>
+<date>2016-01-30T03:35:35.408871Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+</paths>
+<msg>working on Pawn before Refactoring code</msg>
+</logentry>
+<logentry
+   revision="2684">
+<author>gvndprs2</author>
+<date>2016-01-30T03:44:48.408318Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+</paths>
+<msg>working on Pawn halfway through Refactoring code</msg>
+</logentry>
+<logentry
+   revision="2688">
+<author>gvndprs2</author>
+<date>2016-01-30T05:06:01.823648Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+</paths>
+<msg>refactoring Rook</msg>
+</logentry>
+<logentry
+   revision="2690">
+<author>gvndprs2</author>
+<date>2016-01-30T05:37:49.649385Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+</paths>
+<msg>refactoring Rook + added board movements for all classes</msg>
+</logentry>
+<logentry
+   revision="2693">
+<author>gvndprs2</author>
+<date>2016-01-30T07:12:34.285676Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+</paths>
+<msg>Rook and Bishop might have bugs. Redo Queen. test King. Need to write testcases</msg>
+</logentry>
+<logentry
+   revision="2780">
+<author>gvndprs2</author>
+<date>2016-01-31T04:09:58.608253Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+</paths>
+<msg>Before changing validate move to getallpossible</msg>
+</logentry>
+<logentry
+   revision="3041">
+<author>gvndprs2</author>
+<date>2016-02-02T07:57:20.004700Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/PairType.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Square.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/src/code/CoordRet.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/code/MapRet.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+</paths>
+<msg>update to checkmate. Still need to refactor code, and clean up, and comment + WRITE TEST CASES</msg>
+</logentry>
+<logentry
+   revision="3070">
+<author>gvndprs2</author>
+<date>2016-02-02T19:33:53.584265Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/src/test/testPawn.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Square.java</path>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/src/test/testQueen.java</path>
+</paths>
+<msg>swapped positions for queen and king and fixed check</msg>
+</logentry>
+<logentry
+   revision="3142">
+<author>gvndprs2</author>
+<date>2016-02-03T06:58:24.285288Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/gvndprs2/Assignment1.0/src/test/testQueen.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment1.0/src/test/testPawn.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/CoordRet.java</path>
+</paths>
+<msg>wrote test cases</msg>
+</logentry>
+<logentry
+   revision="3204">
+<author>gvndprs2</author>
+<date>2016-02-03T22:39:26.819371Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Square.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+</paths>
+<msg>cleaned up code and made access private</msg>
+</logentry>
+<logentry
+   revision="3207">
+<author>gvndprs2</author>
+<date>2016-02-03T22:58:51.674083Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/MapRet.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/PairType.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Square.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/CoordRet.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+</paths>
+<msg>cleaned up code by formatting it</msg>
+</logentry>
+<logentry
+   revision="3208">
+<author>gvndprs2</author>
+<date>2016-02-03T23:04:10.410522Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
+</paths>
+<msg>cleaned up code by formatting it</msg>
+</logentry>
+<logentry
+   revision="3801">
+<author>gvndprs2</author>
+<date>2016-02-05T18:09:13.358942Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/MapRet.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Bishop.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Knight.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/misc.xml</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Pawn.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Piece.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/King.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/types/Rook.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Square.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/CoordRet.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/types/Queen.java</path>
+</paths>
+<msg>updated comments and cehckmate</msg>
+</logentry>
+<logentry
+   revision="3818">
+<author>gvndprs2</author>
+<date>2016-02-05T18:48:32.926643Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
+</paths>
+<msg>updated comments and cehckmate</msg>
+</logentry>
+<logentry
+   revision="3821">
+<author>gvndprs2</author>
+<date>2016-02-05T19:05:14.979621Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+</paths>
+<msg>updated comments and cehckmate</msg>
+</logentry>
+<logentry
+   revision="3822">
+<author>gvndprs2</author>
+<date>2016-02-05T19:14:13.841839Z</date>
+<paths>
+<path
+   action="A"
+   kind="file">/gvndprs2/Assignment1.0/.idea/inspectionProfiles/Project_Default.xml</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   kind="dir"
+   action="A">/gvndprs2/Assignment1.0/.idea/inspectionProfiles</path>
+<path
+   kind="file"
+   action="A">/gvndprs2/Assignment1.0/.idea/inspectionProfiles/profiles_settings.xml</path>
+</paths>
+<msg>updated comments and cehckmate</msg>
+</logentry>
+<logentry
+   revision="3826">
+<author>gvndprs2</author>
+<date>2016-02-05T19:33:14.596873Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+</paths>
+<msg>updated comments and cehckmate</msg>
+</logentry>
+<logentry
+   revision="3855">
+<author>gvndprs2</author>
+<date>2016-02-05T20:40:54.931077Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Game.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/test/testBoard.java</path>
+</paths>
+<msg>updated with TA feedback + TODO list</msg>
+</logentry>
+<logentry
+   revision="4021">
+<author>gvndprs2</author>
+<date>2016-02-07T05:00:42.717287Z</date>
+<paths>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+</paths>
+<msg>stale</msg>
+</logentry>
+<logentry
+   revision="4022">
+<author>gvndprs2</author>
+<date>2016-02-07T05:00:56.578991Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+</paths>
+<msg>stale</msg>
+</logentry>
+<logentry
+   revision="4024">
+<author>gvndprs2</author>
+<date>2016-02-07T05:33:30.839296Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/src/code/Board.java</path>
+<path
+   action="M"
+   kind="file">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+</paths>
+<msg>dk why this saying there is a change...</msg>
+</logentry>
+<logentry
+   revision="4028">
+<author>gvndprs2</author>
+<date>2016-02-07T05:51:19.087639Z</date>
+<paths>
+<path
+   action="D"
+   kind="file">/gvndprs2/Assignment1.0/src/code/King.java</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment1.0/src/code/Rook.java</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment1.0/src/code/Queen.java</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment1.0/src/code/Bishop.java</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment1.0/src/code/Knight.java</path>
+<path
+   kind="file"
+   action="D">/gvndprs2/Assignment1.0/src/code/Pawn.java</path>
+</paths>
+<msg>please work</msg>
+</logentry>
+<logentry
+   revision="4029">
+<author>gvndprs2</author>
+<date>2016-02-07T05:53:34.933637Z</date>
+<paths>
+<path
+   kind="file"
+   action="M">/gvndprs2/Assignment1.0/.idea/workspace.xml</path>
+</paths>
+<msg>update</msg>
+</logentry>
+</log>

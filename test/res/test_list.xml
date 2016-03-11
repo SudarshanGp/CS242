@@ -1,0 +1,746 @@
+    <?xml version="1.0" encoding="UTF-8"?>
+<lists>
+<list
+   path="https://subversion.ews.illinois.edu/svn/sp16-cs242/gvndprs2">
+<entry
+   kind="dir">
+<name>Assignment0</name>
+<commit
+   revision="1318">
+<author>gvndprs2</author>
+<date>2016-01-28T04:43:02.078117Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.classpath</name>
+<size>307</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.project</name>
+<size>362</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/.settings</name>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/.settings/org.eclipse.jdt.core.prefs</name>
+<size>629</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/COPYING</name>
+<size>18011</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/Makefile</name>
+<size>184</size>
+<commit
+   revision="1318">
+<author>gvndprs2</author>
+<date>2016-01-28T04:43:02.078117Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/bin</name>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/bin/lanSimulation</name>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/LANSimulation.class</name>
+<size>4544</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/Network.class</name>
+<size>7873</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/bin/lanSimulation/internals</name>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/internals/Node.class</name>
+<size>1218</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/internals/Packet.class</name>
+<size>717</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/bin/lanSimulation/tests</name>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/tests/LANTests$PreconditionViolationTestCase.class</name>
+<size>1082</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/bin/lanSimulation/tests/LANTests.class</name>
+<size>9528</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/changes.txt</name>
+<size>14</size>
+<commit
+   revision="1318">
+<author>gvndprs2</author>
+<date>2016-01-28T04:43:02.078117Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/doc</name>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/doc/LANSimulationDocument.pdf</name>
+<size>36375</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/doc/README</name>
+<size>1230</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/doc/RefactoringAssignment.pdf</name>
+<size>139491</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/doc/toDoList</name>
+<size>1772</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/expectedOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/javadoc.xml</name>
+<size>393</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/link.cpp</name>
+<size>12930</size>
+<commit
+   revision="1318">
+<author>gvndprs2</author>
+<date>2016-01-28T04:43:02.078117Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/message.txt</name>
+<size>68</size>
+<commit
+   revision="1318">
+<author>gvndprs2</author>
+<date>2016-01-28T04:43:02.078117Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/output.txt</name>
+<size>816</size>
+<commit
+   revision="1318">
+<author>gvndprs2</author>
+<date>2016-01-28T04:43:02.078117Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/src</name>
+<commit
+   revision="300">
+<author>gvndprs2</author>
+<date>2016-01-25T21:16:54.975532Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/src/lanSimulation</name>
+<commit
+   revision="300">
+<author>gvndprs2</author>
+<date>2016-01-25T21:16:54.975532Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/src/lanSimulation/LANSimulation.java</name>
+<size>5845</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/src/lanSimulation/Network.java</name>
+<size>11758</size>
+<commit
+   revision="300">
+<author>gvndprs2</author>
+<date>2016-01-25T21:16:54.975532Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/src/lanSimulation/internals</name>
+<commit
+   revision="300">
+<author>gvndprs2</author>
+<date>2016-01-25T21:16:54.975532Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/src/lanSimulation/internals/Node.java</name>
+<size>4170</size>
+<commit
+   revision="300">
+<author>gvndprs2</author>
+<date>2016-01-25T21:16:54.975532Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/src/lanSimulation/internals/Packet.java</name>
+<size>1828</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment0/src/lanSimulation/tests</name>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/src/lanSimulation/tests/LANTests.java</name>
+<size>10293</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/topology.txt</name>
+<size>30</size>
+<commit
+   revision="1318">
+<author>gvndprs2</author>
+<date>2016-01-28T04:43:02.078117Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment0/useOutput.txt</name>
+<size>2980</size>
+<commit
+   revision="243">
+<author>gvndprs2</author>
+<date>2016-01-25T19:54:49.303459Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0</name>
+<commit
+   revision="4029">
+<author>gvndprs2</author>
+<date>2016-02-07T05:53:34.933637Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea</name>
+<commit
+   revision="4029">
+<author>gvndprs2</author>
+<date>2016-02-07T05:53:34.933637Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/.name</name>
+<size>13</size>
+<commit
+   revision="1351">
+<author>gvndprs2</author>
+<date>2016-01-28T05:06:52.283439Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/compiler.xml</name>
+<size>686</size>
+<commit
+   revision="1351">
+<author>gvndprs2</author>
+<date>2016-01-28T05:06:52.283439Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea/copyright</name>
+<commit
+   revision="1351">
+<author>gvndprs2</author>
+<date>2016-01-28T05:06:52.283439Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/copyright/profiles_settings.xml</name>
+<size>74</size>
+<commit
+   revision="1351">
+<author>gvndprs2</author>
+<date>2016-01-28T05:06:52.283439Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/encodings.xml</name>
+<size>159</size>
+<commit
+   revision="1351">
+<author>gvndprs2</author>
+<date>2016-01-28T05:06:52.283439Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/.idea/inspectionProfiles</name>
+<commit
+   revision="3822">
+<author>gvndprs2</author>
+<date>2016-02-05T19:14:13.841839Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/inspectionProfiles/Project_Default.xml</name>
+<size>660</size>
+<commit
+   revision="3822">
+<author>gvndprs2</author>
+<date>2016-02-05T19:14:13.841839Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/inspectionProfiles/profiles_settings.xml</name>
+<size>235</size>
+<commit
+   revision="3822">
+<author>gvndprs2</author>
+<date>2016-02-05T19:14:13.841839Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/misc.xml</name>
+<size>3230</size>
+<commit
+   revision="3801">
+<author>gvndprs2</author>
+<date>2016-02-05T18:09:13.358942Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/modules.xml</name>
+<size>266</size>
+<commit
+   revision="1351">
+<author>gvndprs2</author>
+<date>2016-01-28T05:06:52.283439Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/uiDesigner.xml</name>
+<size>8792</size>
+<commit
+   revision="1351">
+<author>gvndprs2</author>
+<date>2016-01-28T05:06:52.283439Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/vcs.xml</name>
+<size>167</size>
+<commit
+   revision="1351">
+<author>gvndprs2</author>
+<date>2016-01-28T05:06:52.283439Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/.idea/workspace.xml</name>
+<size>80139</size>
+<commit
+   revision="4029">
+<author>gvndprs2</author>
+<date>2016-02-07T05:53:34.933637Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/Assignment1.0.iml</name>
+<size>660</size>
+<commit
+   revision="2682">
+<author>gvndprs2</author>
+<date>2016-01-30T03:34:51.637434Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src</name>
+<commit
+   revision="4028">
+<author>gvndprs2</author>
+<date>2016-02-07T05:51:19.087639Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/code</name>
+<commit
+   revision="4028">
+<author>gvndprs2</author>
+<date>2016-02-07T05:51:19.087639Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/code/Board.java</name>
+<size>26526</size>
+<commit
+   revision="4024">
+<author>gvndprs2</author>
+<date>2016-02-07T05:33:30.839296Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/code/CoordRet.java</name>
+<size>479</size>
+<commit
+   revision="3801">
+<author>gvndprs2</author>
+<date>2016-02-05T18:09:13.358942Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/code/Game.java</name>
+<size>2975</size>
+<commit
+   revision="3855">
+<author>gvndprs2</author>
+<date>2016-02-05T20:40:54.931077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/code/MapRet.java</name>
+<size>1413</size>
+<commit
+   revision="3801">
+<author>gvndprs2</author>
+<date>2016-02-05T18:09:13.358942Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/code/PairType.java</name>
+<size>975</size>
+<commit
+   revision="3207">
+<author>gvndprs2</author>
+<date>2016-02-03T22:58:51.674083Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/code/Square.java</name>
+<size>15021</size>
+<commit
+   revision="3801">
+<author>gvndprs2</author>
+<date>2016-02-05T18:09:13.358942Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/code/types</name>
+<commit
+   revision="3801">
+<author>gvndprs2</author>
+<date>2016-02-05T18:09:13.358942Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/code/types/Bishop.java</name>
+<size>3263</size>
+<commit
+   revision="3801">
+<author>gvndprs2</author>
+<date>2016-02-05T18:09:13.358942Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/code/types/King.java</name>
+<size>1681</size>
+<commit
+   revision="3801">
+<author>gvndprs2</author>
+<date>2016-02-05T18:09:13.358942Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/code/types/Knight.java</name>
+<size>1963</size>
+<commit
+   revision="3801">
+<author>gvndprs2</author>
+<date>2016-02-05T18:09:13.358942Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/code/types/Pawn.java</name>
+<size>5749</size>
+<commit
+   revision="3801">
+<author>gvndprs2</author>
+<date>2016-02-05T18:09:13.358942Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/code/types/Piece.java</name>
+<size>1115</size>
+<commit
+   revision="3801">
+<author>gvndprs2</author>
+<date>2016-02-05T18:09:13.358942Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/code/types/Queen.java</name>
+<size>1849</size>
+<commit
+   revision="3801">
+<author>gvndprs2</author>
+<date>2016-02-05T18:09:13.358942Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/code/types/Rook.java</name>
+<size>7647</size>
+<commit
+   revision="3801">
+<author>gvndprs2</author>
+<date>2016-02-05T18:09:13.358942Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>Assignment1.0/src/test</name>
+<commit
+   revision="3855">
+<author>gvndprs2</author>
+<date>2016-02-05T20:40:54.931077Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>Assignment1.0/src/test/testBoard.java</name>
+<size>24105</size>
+<commit
+   revision="3855">
+<author>gvndprs2</author>
+<date>2016-02-05T20:40:54.931077Z</date>
+</commit>
+</entry>
+<entry
+   kind="dir">
+<name>shopping</name>
+<commit
+   revision="289">
+<author>gvndprs2</author>
+<date>2016-01-25T20:44:02.916654Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list1.txt</name>
+<size>56</size>
+<commit
+   revision="254">
+<author>gvndprs2</author>
+<date>2016-01-25T20:22:30.873359Z</date>
+</commit>
+</entry>
+<entry
+   kind="file">
+<name>shopping/list2.txt</name>
+<size>76</size>
+<commit
+   revision="269">
+<author>gvndprs2</author>
+<date>2016-01-25T20:29:45.000613Z</date>
+</commit>
+</entry>
+</list>
+</lists>

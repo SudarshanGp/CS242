@@ -19,13 +19,19 @@
 
 .treeview .list-group-item {
 	cursor: pointer;
+	height: 55px;
 }
-
+.list-group{
+	font-weight:bold;
+	color: #616161;
+}
 .treeview span.indent {
 	margin-left: 10px;
 	margin-right: 10px;
 }
-
+span.badge{
+	font-size: 10px;
+}
 .treeview span.icon {
 	width: 12px;
 	margin-right: 5px;

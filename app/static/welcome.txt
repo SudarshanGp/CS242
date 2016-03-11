@@ -1,0 +1,4 @@
+Welcome to my CS 242 Portfolio.
+Navigate through the my code repository on the left to view information about a file.
+Information about various versions of the file is displayed in the scrollable table above.
+Click on a file on the left to open up the code on this window.

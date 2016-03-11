@@ -1,106 +1,57 @@
-function test(data){
-    console.log(data);
-}
-
-function menu(defaultData){
-     var search = function(e) {
-        var pattern = $('#input-search').val();
-        var options = {
-            ignoreCase: $('#chk-ignore-case').is(':checked'),
-            exactMatch: $('#chk-exact-match').is(':checked'),
-            revealResults: $('#chk-reveal-results').is(':checked'),
-            enableLinks: true
-
-        };
-        var results = $searchableTree.treeview('search', [pattern, options]);
-
-        var output = '<p>' + results.length + ' matches found</p>';
-        $.each(results, function(index, result) {
-            console.log(result);
-            output += '<p>- ' + result.text + '</p>';
-        });
-        $('#search-output').html(output);
-    }
-
-    $('#btn-search').on('click', search);
-    $('#input-search').on('keyup', search);
-
-    $('#btn-clear-search').on('click', function(e) {
-        $searchableTree.treeview('clearSearch');
-        $('#input-search').val('');
-        $('#search-output').html('');
-    });
-
-
-    var initSelectableTree = function() {
-
-        return $('#treeview-selectable').treeview({
-            data: defaultData,
-            multiSelect: $('#chk-select-multi').is(':checked'),
-            onNodeSelected: function(event, node) {
-                //var data_pass = {name: node.url}
-                // $.ajax({
-                //     url: '/subversion',
-                //     data: JSON.stringify({url: node.url}),
-                //     type: 'POST',
-                //     contentType: 'application/json;charset=UTF-8',
-                //     success: function(response) {
-                //         console.log(response);
-                //     },
-                //     dataType: "json",
-                //     error: function(error) {
-                //         console.log(error);
-                //     }
-                // });
-                var iframe = $('#code');
-                console.log(node.url);
-                iframe.attr('src', node.url);
-                iframe.attr('height', $(window).height()+'px')
-                console.log(node);
-                $('#selectable-output').html('<p>' + node.text + ' was selected</p>');
-            },
-            onNodeUnselected: function(event, node) {
-                $('#selectable-output').html('<p>' + node.text + ' was unselected</p>');
+/**
+ * menu function takes in defaultData that is passed from the template when base.html is rendered and
+ * creates the tree node structure and creates takes care of requesting for version information of file through
+ * AJAX requests to the flask server
+ * @param defaultData Contains information that is used to build the tree node directory structure.
+ */
+function menu(defaultData) {
+    "use strict";
+    $('#treeview-selectable').treeview({
+        data: defaultData,
+        multiSelect: $('#chk-select-multi').is(':checked'),
+        onNodeSelected: function(event, node) {
+            var type = ""; // Type of object we are looking at
+            if (node.tags.length === 2) {
+                type = 'DIR';
+            } else if (node.tags.length === 4) {
+                type = 'FILE';
             }
-        });
-    };
-    var $selectableTree = initSelectableTree();
-    var findSelectableNodes = function() {
-        return $selectableTree.treeview('search', [$('#input-select-node').val(), {
-            ignoreCase: false,
-            exactMatch: false
-        }]);
-    };
-    var selectableNodes = findSelectableNodes();
-
-    $('#chk-select-multi:checkbox').on('change', function() {
-        console.log('multi-select change');
-        $selectableTree = initSelectableTree();
-        selectableNodes = findSelectableNodes();
-    });
-
-    // Select/unselect/toggle nodes
-    $('#input-select-node').on('keyup', function(e) {
-        selectableNodes = findSelectableNodes();
-        $('.select-node').prop('disabled', !(selectableNodes.length >= 1));
-    });
-
-    $('#btn-select-node.select-node').on('click', function(e) {
-        $selectableTree.treeview('selectNode', [selectableNodes, {
-            silent: $('#chk-select-silent').is(':checked')
-        }]);
-    });
-
-    $('#btn-unselect-node.select-node').on('click', function(e) {
-        $selectableTree.treeview('unselectNode', [selectableNodes, {
-            silent: $('#chk-select-silent').is(':checked')
-        }]);
-    });
-
-    $('#btn-toggle-selected.select-node').on('click', function(e) {
-        $selectableTree.treeview('toggleNodeSelected', [selectableNodes, {
-            silent: $('#chk-select-silent').is(':checked')
-        }]);
+            $.ajax({ // ajax call for revision data for file is mades
+                url: '/info',
+                data: JSON.stringify({ // data that is sent to the flask server
+                    url: node.url,
+                    revision: (node.tags[0].split(':'))[1],
+                    name: node.text,
+                    type: type
+                }),
+                type: 'POST',
+                contentType: 'application/json;charset=UTF-8',
+                success: function (response) { // response that is sent back from the flask server
+                    if (response['msg'] === 'YES') {
+                        var revisions = response['revisions'];
+                        revisions.forEach(function( // iterate through all revision entries and add it to the table
+                            entry) {
+                            var tr = '<tr> <td>' + entry['_date'] + '</td> <td>' + entry['_author'] +
+                                '</td> <td>' + entry['_revision'] + '</td><td>' + entry['_msg'] + '</td></tr>';
+                            $('#info').append(tr);});
+                    }
+                },
+                dataType: "json",
+                error: function(error) {
+                    console.log(error); // log error on invalid ajax request
+                }
+            });
+            var codeFrame = $('#code'); // retrieve iframe that contains the code
+            if (type === 'FILE') {
+                codeFrame.attr('src', node.url); // load source code of file on iframe
+            }
+        },
+        onNodeUnselected: function(event, node) { // when the node is unselected/another file is selected
+            var codeFrame = $('#code');
+            codeFrame.attr('src',
+                'https://subversion.ews.illinois.edu/svn/sp16-cs242/gvndprs2/Assignment3.0/app/static/welcome.txt'
+            ); // clear iframe
+            $("#info td").remove(); // clear table containing revision information
+        }
     });
 }
-
